@@ -1,0 +1,13 @@
+# Raw CMS files — too large for GitHub (4GB+ each per year), download separately
+dataset/
+raw_data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
