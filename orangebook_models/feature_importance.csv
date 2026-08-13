@@ -1,0 +1,2617 @@
+Feature,Importance
+categorical__Dosage_Form_INJECTABLE,0.06204388
+categorical__Route_Of_Administration_ORAL,0.03558913
+categorical__Route_Of_Administration_INTRAVENOUS,0.02593074
+categorical__DF;Route_SOLUTION;ORAL,0.020004958
+categorical__Dosage_Form_SYRUP,0.019182634
+"categorical__DF;Route_INJECTABLE, LIPOSOMAL;INJECTION",0.019097801
+categorical__Route_Of_Administration_TOPICAL,0.015395678
+categorical__DF;Route_SOLUTION;IRRIGATION,0.013844751
+categorical__DF;Route_SYRUP;ORAL,0.012781926
+categorical__Ingredient_TADALAFIL,0.010756684
+categorical__Ingredient_ACETAMINOPHEN; HYDROCODONE BITARTRATE,0.010365733
+categorical__Ingredient_ACETAMINOPHEN; OXYCODONE HYDROCHLORIDE,0.010166871
+categorical__DF;Route_SOLUTION;INJECTION,0.010136281
+categorical__Ingredient_CHOLESTYRAMINE,0.009679286
+categorical__DF;Route_FOR SOLUTION;ORAL,0.009567141
+categorical__Dosage_Form_SOLUTION/DROPS,0.008315432
+categorical__Route_Of_Administration_OPHTHALMIC,0.0080742575
+categorical__Route_Of_Administration_OTIC,0.0077888696
+categorical__DF;Route_SOLUTION;INTRAPERITONEAL,0.007686609
+categorical__Route_Of_Administration_IRRIGATION,0.0074096518
+categorical__DF;Route_LIQUID;N/A,0.007361012
+categorical__Route_Of_Administration_INHALATION,0.007159927
+categorical__Dosage_Form_CONCENTRATE,0.007034941
+categorical__Dosage_Form_POWDER,0.006877213
+categorical__Ingredient_HYDRALAZINE HYDROCHLORIDE,0.006830424
+categorical__Dosage_Form_SOLUTION,0.006739424
+"categorical__Route_Of_Administration_ORAL, RECTAL",0.006589103
+categorical__Route_Of_Administration_TRANSDERMAL,0.0065449392
+categorical__Ingredient_BETAMETHASONE DIPROPIONATE,0.0063455733
+categorical__Ingredient_GLYCOPYRROLATE,0.006215612
+categorical__Ingredient_BENZTROPINE MESYLATE,0.0059832623
+categorical__Ingredient_AMPHETAMINE SULFATE,0.005907965
+categorical__Ingredient_CALCIUM CHLORIDE; DEXTROSE; MAGNESIUM CHLORIDE; SODIUM CHLORIDE; SODIUM LACTATE,0.0057550897
+categorical__Ingredient_MECLIZINE HYDROCHLORIDE,0.0057407594
+categorical__Ingredient_DEXTROAMPHETAMINE SULFATE,0.005721016
+categorical__Ingredient_STERILE WATER FOR INJECTION,0.005618768
+"categorical__Route_Of_Administration_INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS",0.0056041135
+categorical__Ingredient_PHENTERMINE HYDROCHLORIDE,0.005571981
+categorical__Ingredient_CARISOPRODOL,0.005566848
+categorical__Ingredient_BETHANECHOL CHLORIDE,0.0055472525
+categorical__Dosage_Form_FOR SOLUTION,0.0055304375
+categorical__Ingredient_BENZONATATE,0.0054012723
+categorical__Ingredient_ACETAMINOPHEN; CODEINE PHOSPHATE,0.005395681
+categorical__DF;Route_CONCENTRATE;ORAL,0.005385422
+categorical__Strength_80MG/ML,0.0052994215
+categorical__Ingredient_METHADONE HYDROCHLORIDE,0.0051941564
+categorical__Ingredient_ACETAMINOPHEN; BUTALBITAL; CAFFEINE,0.0050795693
+categorical__Ingredient_ACYCLOVIR,0.0050465353
+categorical__Ingredient_ISOTRETINOIN,0.005016508
+categorical__Ingredient_FLUOXETINE HYDROCHLORIDE,0.0050038807
+categorical__Route_Of_Administration_INTRAMUSCULAR,0.0049914583
+categorical__DF;Route_SOLUTION;TOPICAL,0.004770767
+categorical__DF;Route_POWDER;ORAL,0.004748047
+categorical__Ingredient_CYCLOSPORINE,0.004678926
+categorical__Ingredient_GLYBURIDE,0.0046619093
+categorical__Ingredient_METHYLPREDNISOLONE ACETATE,0.0044682473
+"categorical__DF;Route_CAPSULE, EXTENDED RELEASE;ORAL",0.0043357974
+categorical__DF;Route_POWDER;INTRAVENOUS,0.00433539
+categorical__Dosage_Form_SYSTEM,0.0042350483
+categorical__Route_Of_Administration_NASAL,0.0042062188
+categorical__Ingredient_METHOCARBAMOL,0.0041308706
+categorical__DF;Route_SOLUTION;INTRAMUSCULAR,0.004056819
+categorical__Ingredient_ISONIAZID,0.003897199
+categorical__DF;Route_SYSTEM;TRANSDERMAL,0.003870269
+categorical__Ingredient_ACETAMINOPHEN; BUTALBITAL,0.0037943926
+categorical__Ingredient_TRIAMCINOLONE ACETONIDE,0.0037118087
+categorical__Ingredient_GABAPENTIN,0.003689522
+categorical__Ingredient_AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE,0.0036787493
+"categorical__DF;Route_SOLUTION;INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS",0.0036593028
+categorical__Ingredient_CHLORZOXAZONE,0.0036392407
+"categorical__Route_Of_Administration_INHALATION, ORAL",0.0035602031
+categorical__Ingredient_BUPROPION HYDROCHLORIDE,0.0035483995
+categorical__Dosage_Form_TABLET,0.0035276175
+categorical__Ingredient_POTASSIUM CHLORIDE,0.003511167
+categorical__Strength_0.5MG/2ML,0.0034460216
+"categorical__Dosage_Form_CAPSULE, EXTENDED RELEASE",0.0034349097
+categorical__Ingredient_NIFEDIPINE,0.0034085484
+categorical__DF;Route_SOLUTION;INHALATION,0.0033978464
+categorical__Strength_1.1GM/ML,0.003343544
+categorical__DF;Route_SOLUTION/DROPS;OPHTHALMIC,0.003295809
+categorical__Ingredient_LEVOTHYROXINE SODIUM,0.0032636467
+categorical__Strength_350MG,0.0032512944
+categorical__Ingredient_SODIUM POLYSTYRENE SULFONATE,0.0032287464
+"categorical__DF;Route_TABLET, EXTENDED RELEASE;ORAL",0.0032091734
+"categorical__Dosage_Form_TABLET, EXTENDED RELEASE",0.003163472
+categorical__Ingredient_TOLVAPTAN,0.0031621694
+categorical__DF;Route_ELIXIR;ORAL,0.0031408165
+categorical__Ingredient_DILTIAZEM HYDROCHLORIDE,0.0030924953
+categorical__Ingredient_NYSTATIN,0.003009381
+categorical__Dosage_Form_LIQUID,0.0029629862
+categorical__DF;Route_GEL;TOPICAL,0.0029047471
+categorical__Ingredient_ATROPINE SULFATE; DIPHENOXYLATE HYDROCHLORIDE,0.0028739031
+categorical__Strength_0.25MG/2ML,0.0028361813
+"categorical__DF;Route_SOLUTION;ORAL, RECTAL",0.0028285712
+categorical__Ingredient_PHYTONADIONE,0.0027606152
+categorical__Route_Of_Administration_SUBLINGUAL,0.0027548457
+categorical__Route_Of_Administration_INJECTION,0.002628924
+categorical__Ingredient_FLUOCINOLONE ACETONIDE,0.002584245
+categorical__Ingredient_CYPROHEPTADINE HYDROCHLORIDE,0.0025472082
+categorical__Ingredient_FULVESTRANT,0.0025152017
+categorical__Ingredient_ACETYLCYSTEINE,0.0024920872
+categorical__Ingredient_PHENYLEPHRINE HYDROCHLORIDE,0.0024485274
+categorical__DF;Route_SUSPENSION;INHALATION,0.0024299817
+categorical__DF;Route_LIQUID;ORAL,0.0024164163
+"categorical__DF;Route_SOLUTION;INHALATION, ORAL",0.002376726
+categorical__Strength_0.05%,0.0023543905
+categorical__Ingredient_HALOPERIDOL DECANOATE,0.0023262359
+categorical__Ingredient_PHENDIMETRAZINE TARTRATE,0.0023018902
+categorical__Strength_0.025MG;2.5MG,0.0023008846
+categorical__DF;Route_POWDER;INHALATION,0.0022221056
+categorical__DF;Route_LOTION;TOPICAL,0.002217667
+"categorical__Strength_100,000 UNITS/GM",0.0022037113
+"categorical__Dosage_Form_FILM, EXTENDED RELEASE",0.0021864807
+categorical__Ingredient_CLINDAMYCIN PHOSPHATE; TRETINOIN,0.0021660645
+categorical__Ingredient_TOPIRAMATE,0.0021308982
+categorical__Strength_100MG/VIAL,0.0020977636
+categorical__Ingredient_IRON SUCROSE,0.0020736326
+categorical__Ingredient_SAPROPTERIN DIHYDROCHLORIDE,0.0020269942
+categorical__Strength_EQ 100MG BASE/ML,0.0020236229
+categorical__Strength_20%,0.0019908033
+categorical__Ingredient_GLYCEROL PHENYLBUTYRATE,0.0019828544
+categorical__Ingredient_BRIMONIDINE TARTRATE; TIMOLOL MALEATE,0.001980284
+categorical__Strength_150MG/ML,0.001951612
+categorical__Route_Of_Administration_DENTAL,0.0019508514
+categorical__Dosage_Form_SUSPENSION/DROPS,0.0019469716
+categorical__Strength_40MG/ML,0.0019089706
+categorical__Dosage_Form_SPRAY,0.0019043918
+categorical__Ingredient_PROPOFOL,0.0018973565
+categorical__Ingredient_BETAMETHASONE VALERATE,0.00188838
+categorical__Ingredient_TRIHEXYPHENIDYL HYDROCHLORIDE,0.0018730874
+categorical__Ingredient_RISPERIDONE,0.0018703197
+"categorical__DF;Route_FILM, EXTENDED RELEASE;TRANSDERMAL",0.0018613923
+categorical__DF;Route_TABLET;ORAL-28,0.0018473511
+categorical__Ingredient_METFORMIN HYDROCHLORIDE,0.0018472989
+categorical__Dosage_Form_ELIXIR,0.0018329575
+categorical__Ingredient_TESTOSTERONE,0.0017879179
+categorical__DF;Route_PASTE;DENTAL,0.0017865442
+categorical__Strength_EQ 50MG BASE/ML,0.0017788474
+"categorical__Dosage_Form_AEROSOL, METERED",0.0017780173
+categorical__Ingredient_SUMATRIPTAN SUCCINATE,0.0017755162
+categorical__Dosage_Form_GEL,0.0017652472
+categorical__Strength_8MEQ,0.0017496096
+categorical__Ingredient_OCTREOTIDE ACETATE,0.0017339247
+categorical__Ingredient_DIATRIZOATE MEGLUMINE; DIATRIZOATE SODIUM,0.0017298699
+categorical__Ingredient_LACTULOSE,0.0017277751
+categorical__Ingredient_EPOPROSTENOL SODIUM,0.0016824378
+categorical__Ingredient_TRAMADOL HYDROCHLORIDE,0.0016801127
+"categorical__DF;Route_AEROSOL, METERED;INHALATION",0.0016624227
+categorical__DF;Route_LIQUID;INHALATION,0.0016522576
+categorical__Dosage_Form_CAPSULE,0.0016452033
+categorical__Strength_0.2%;EQ 0.5% BASE,0.0016180733
+categorical__Strength_325MG;50MG;40MG,0.0015983876
+categorical__Dosage_Form_OINTMENT,0.001592717
+categorical__Strength_1MG/2ML,0.0015924833
+categorical__Strength_25MG/ML,0.0015802957
+categorical__Ingredient_ESTRADIOL,0.0015762231
+categorical__Strength_250MG/5ML (50MG/ML),0.0015747023
+categorical__Ingredient_ENALAPRIL MALEATE,0.0015692263
+categorical__DF;Route_INJECTABLE;INJECTION,0.0015620908
+categorical__Ingredient_MEDROXYPROGESTERONE ACETATE,0.0015339048
+categorical__Route_Of_Administration_ORAL-28,0.001527316
+categorical__Ingredient_EPINEPHRINE,0.0015120809
+"categorical__Strength_100,000 UNITS/GM;0.1%",0.0015069771
+categorical__Strength_10%,0.0015027743
+categorical__Ingredient_BUDESONIDE; FORMOTEROL FUMARATE DIHYDRATE,0.0014955491
+categorical__Strength_0.1MG,0.0014907842
+categorical__Ingredient_TESTOSTERONE CYPIONATE,0.0014786955
+categorical__Ingredient_NYSTATIN; TRIAMCINOLONE ACETONIDE,0.0014677981
+categorical__Strength_EQ 0.09MG BASE/INH,0.0014465852
+categorical__Strength_0.35MG,0.0014301148
+categorical__Ingredient_VALGANCICLOVIR HYDROCHLORIDE,0.0014225435
+categorical__Strength_EQ 40MG BASE,0.0014190376
+categorical__Ingredient_PACLITAXEL,0.001414107
+categorical__DF;Route_INJECTABLE;SUBCUTANEOUS,0.0013970764
+categorical__Ingredient_BETAINE,0.0013925069
+categorical__Ingredient_CLONIDINE HYDROCHLORIDE,0.0013843412
+categorical__Strength_500MG/5ML,0.001382592
+categorical__Ingredient_LIDOCAINE HYDROCHLORIDE,0.0013822726
+categorical__Ingredient_HYDROCORTISONE,0.001364001
+categorical__Ingredient_ESTRADIOL VALERATE,0.001361191
+"categorical__DF;Route_SUSPENSION;ORAL, RECTAL",0.0013212936
+categorical__Ingredient_HYDROCORTISONE BUTYRATE,0.0013182964
+categorical__Strength_0.03MG;0.15MG,0.0012881667
+categorical__Strength_EQ 1% BASE,0.0012850099
+categorical__Ingredient_ALBUTEROL SULFATE,0.0012827605
+categorical__Ingredient_NORETHINDRONE,0.0012745151
+categorical__Strength_750MG,0.0012705983
+categorical__DF;Route_OINTMENT;OPHTHALMIC,0.0012657183
+categorical__DF;Route_PATCH;TOPICAL,0.0012593
+categorical__Strength_41%,0.0012449264
+categorical__Strength_45MG,0.001242849
+categorical__Ingredient_TAVABOROLE,0.0012275939
+"categorical__DF;Route_AEROSOL, FOAM;TOPICAL",0.001223497
+categorical__DF;Route_SOLUTION;INTRAVENOUS,0.0012203833
+categorical__Ingredient_CLINDAMYCIN PHOSPHATE,0.001219437
+categorical__Strength_1MG,0.0012178643
+categorical__DF;Route_CAPSULE;ORAL,0.0012130004
+categorical__Strength_300MG/3ML (100MG/ML),0.001209034
+"categorical__DF;Route_INJECTABLE;INTRAVENOUS, SUBCUTANEOUS",0.0012079332
+categorical__Ingredient_TRAVOPROST,0.0011747932
+categorical__Ingredient_METHYLPHENIDATE HYDROCHLORIDE,0.0011689166
+categorical__Ingredient_RISEDRONATE SODIUM,0.0011686941
+categorical__Strength_0.02MG;0.1MG,0.0011664334
+categorical__Ingredient_CLONIDINE,0.0011635546
+categorical__DF;Route_SPRAY;TOPICAL,0.0011632208
+categorical__DF;Route_SOLUTION;SUBCUTANEOUS,0.0011384198
+categorical__Ingredient_ERYTHROMYCIN,0.0011367768
+"categorical__Dosage_Form_SOLUTION, METERED",0.0011334737
+categorical__Strength_35MG,0.0011305341
+categorical__Ingredient_CLOBETASOL PROPIONATE,0.0011213275
+categorical__Strength_100%,0.0011131773
+categorical__Strength_375MG,0.0011092502
+"categorical__DF;Route_POWDER;INTRAVENOUS, SUBCUTANEOUS",0.00110004
+categorical__Strength_200MG/ML,0.0010977627
+categorical__Dosage_Form_CREAM,0.0010913853
+categorical__Ingredient_DICLOFENAC POTASSIUM,0.0010889143
+categorical__Ingredient_LANREOTIDE ACETATE,0.0010886799
+categorical__Strength_1.62% (20.25MG/1.25GM ACTUATION),0.0010877022
+categorical__Strength_1GM/SCOOPFUL,0.0010847541
+categorical__DF;Route_CREAM;TOPICAL,0.0010802146
+categorical__Ingredient_LIDOCAINE,0.0010715224
+categorical__DF;Route_TABLET;ORAL,0.0010708323
+categorical__Strength_2%,0.0010509305
+categorical__Ingredient_TIMOLOL MALEATE,0.0010169689
+categorical__Ingredient_ENOXAPARIN SODIUM,0.0010081208
+"categorical__Route_Of_Administration_INTRACAVITARY, INTRAVENOUS, INTRAVESICAL",0.0010026551
+categorical__Strength_18MG/3ML (6MG/ML),0.0010015351
+categorical__Ingredient_CHLORHEXIDINE GLUCONATE,0.0009911221
+categorical__Route_Of_Administration_SUBCUTANEOUS,0.0009891066
+categorical__Ingredient_DEXAMETHASONE; NEOMYCIN SULFATE; POLYMYXIN B SULFATE,0.0009746184
+categorical__Strength_0.1%,0.0009693003
+categorical__Ingredient_DOXEPIN HYDROCHLORIDE,0.00096812024
+categorical__Ingredient_LIRAGLUTIDE,0.0009647212
+categorical__Ingredient_GENTAMICIN SULFATE,0.000961577
+categorical__Ingredient_VALSARTAN,0.00096141995
+categorical__Ingredient_PAMIDRONATE DISODIUM,0.0009605291
+categorical__Ingredient_NITROGLYCERIN,0.00095978676
+categorical__Ingredient_CIPROFLOXACIN; DEXAMETHASONE,0.00095444586
+categorical__Strength_0.01%,0.0009504135
+"categorical__DF;Route_SOLUTION, METERED;TRANSDERMAL",0.00094582606
+categorical__Ingredient_ETHINYL ESTRADIOL; LEVONORGESTREL,0.0009455907
+categorical__Ingredient_FLUTICASONE PROPIONATE; SALMETEROL XINAFOATE,0.0009423226
+categorical__DF;Route_FOR SUSPENSION;ORAL,0.0009357529
+categorical__Ingredient_VENLAFAXINE HYDROCHLORIDE,0.0009328498
+categorical__Route_Of_Administration_INTRAPERITONEAL,0.00092001096
+categorical__Strength_0.77%,0.0009142935
+categorical__Ingredient_DICLOFENAC SODIUM,0.00090926484
+categorical__Strength_200MG,0.0009077081
+"categorical__DF;Route_TABLET, ORALLY DISINTEGRATING;ORAL",0.0009068675
+categorical__Ingredient_CAPECITABINE,0.0008995696
+categorical__DF;Route_INJECTABLE;INTRAVENOUS,0.00089411874
+categorical__Strength_800MG,0.0008901364
+categorical__DF;Route_OINTMENT;TOPICAL,0.0008870562
+categorical__Ingredient_PROPRANOLOL HYDROCHLORIDE,0.00088219455
+categorical__Strength_5%,0.0008818621
+categorical__Ingredient_ACETAMINOPHEN,0.0008779115
+categorical__Strength_500MG,0.00087594445
+"categorical__Route_Of_Administration_INTRAMUSCULAR, SUBCUTANEOUS",0.0008693029
+"categorical__Ingredient_ACETIC ACID, GLACIAL",0.00086082146
+categorical__Strength_30MG/1.5ML ACTUATION,0.0008583176
+categorical__Strength_2.5%,0.00084681466
+"categorical__Dosage_Form_AEROSOL, FOAM",0.0008426226
+"categorical__DF;Route_POWDER;ORAL, RECTAL",0.00084194663
+categorical__Ingredient_BUPRENORPHINE,0.000841214
+categorical__Ingredient_HYDROCORTISONE; NEOMYCIN SULFATE; POLYMYXIN B SULFATE,0.0008367394
+categorical__Strength_0.004%,0.0008320279
+"categorical__DF;Route_TABLET, DELAYED RELEASE;ORAL",0.00083145243
+categorical__Ingredient_RIVASTIGMINE,0.0008259314
+categorical__Strength_90MG,0.00079965056
+categorical__Ingredient_CICLOPIROX,0.0007937772
+"categorical__DF;Route_SOLUTION;INTRAMUSCULAR, INTRAVENOUS",0.00079351355
+categorical__Strength_EQ 200MG IRON/10ML (EQ 20MG IRON/ML),0.00079205
+categorical__Ingredient_MYCOPHENOLATE MOFETIL,0.00078909454
+categorical__DF;Route_EMULSION;OPHTHALMIC,0.00078704505
+categorical__Route_Of_Administration_VAGINAL,0.0007853094
+categorical__Dosage_Form_LOTION,0.00077108823
+categorical__DF;Route_GEL;TRANSDERMAL,0.00076149503
+categorical__Strength_EQ 6MG BASE/0.5ML (EQ 12MG BASE/ML),0.00076122145
+categorical__Strength_30MG/10ML (3MG/ML),0.000755397
+categorical__Strength_1.25MG,0.00075243134
+"categorical__Dosage_Form_TABLET, ORALLY DISINTEGRATING",0.0007521931
+categorical__Ingredient_FLUPHENAZINE DECANOATE,0.0007409628
+categorical__Ingredient_BUSPIRONE HYDROCHLORIDE,0.00073601655
+categorical__Ingredient_DESOXIMETASONE,0.000735972
+categorical__Ingredient_IOPAMIDOL,0.0007322205
+"categorical__Route_Of_Administration_INTRAVENOUS, SUBCUTANEOUS",0.00073119166
+categorical__Ingredient_TACROLIMUS,0.00072808715
+categorical__Strength_150MG,0.00072629773
+categorical__Ingredient_FENTANYL,0.0007232735
+categorical__Ingredient_FUROSEMIDE,0.00072319154
+categorical__Ingredient_DEXMETHYLPHENIDATE HYDROCHLORIDE,0.00072020397
+categorical__Strength_1.5%,0.0007196497
+categorical__Ingredient_FLUOCINONIDE,0.0007092184
+categorical__Ingredient_MEMANTINE HYDROCHLORIDE,0.0007073264
+"categorical__Strength_1%;EQ 3.5MG BASE/ML;10,000 UNITS/ML",0.00070008135
+categorical__Ingredient_PROGESTERONE,0.0006984313
+categorical__Strength_20MEQ,0.0006975084
+categorical__Ingredient_MOXIFLOXACIN HYDROCHLORIDE,0.0006927057
+categorical__Route_Of_Administration_IM-IV,0.0006761587
+categorical__Strength_1.25MG;1.25MG;1.25MG;1.25MG,0.000672097
+categorical__Strength_EQ 20MG BASE/VIAL,0.0006620907
+categorical__Ingredient_OLANZAPINE,0.0006620423
+categorical__Strength_25MG/5ML (5MG/ML),0.0006541964
+"categorical__DF;Route_SOLUTION;IRRIGATION, URETHRAL",0.0006527571
+categorical__Ingredient_THIOTEPA,0.00065193267
+categorical__Strength_50MG/ML (50MG/ML),0.00065162656
+categorical__Ingredient_PROPAFENONE HYDROCHLORIDE,0.0006452295
+categorical__Strength_EQ 0.2MG BASE/ML,0.00064292905
+categorical__Strength_100MG/ML,0.000640443
+categorical__Strength_10MG/VIAL,0.000636186
+categorical__Ingredient_AMOXICILLIN,0.0006351289
+categorical__Ingredient_AMITRIPTYLINE HYDROCHLORIDE,0.00063235784
+categorical__Strength_100MG/PACKET,0.0006261407
+categorical__Ingredient_KETOCONAZOLE,0.00062197616
+categorical__Strength_EQ 0.05MG BASE/ML,0.0006190663
+categorical__Ingredient_SCOPOLAMINE,0.00061429694
+categorical__Strength_250MG,0.0006077013
+categorical__Strength_4%,0.00060671684
+categorical__Strength_10MG/ML,0.00060389587
+categorical__Strength_0.3%,0.0005982017
+categorical__Strength_5MG;5MG;5MG;5MG,0.0005921522
+categorical__Strength_3.125MG;3.125MG;3.125MG;3.125MG,0.0005889044
+numeric__Approved_Prior_To_1982,0.0005831662
+categorical__Strength_1MG/0.5ML,0.00058189925
+categorical__Ingredient_RIVAROXABAN,0.0005779979
+categorical__Strength_7.5MG;7.5MG;7.5MG;7.5MG,0.00057572447
+categorical__Ingredient_TREPROSTINIL,0.00057460024
+categorical__Strength_25MG,0.0005695042
+"categorical__DF;Route_INJECTABLE;INTRAMUSCULAR, SUBCUTANEOUS",0.00056871
+categorical__Strength_50MG/ML,0.00056460925
+categorical__Ingredient_GLATIRAMER ACETATE,0.0005603597
+"categorical__DF;Route_GEL, METERED;TRANSDERMAL",0.000560346
+categorical__Strength_EQ 0.5MG BASE/ML,0.00055435003
+categorical__Strength_100% (10ML),0.0005502533
+categorical__Ingredient_EPHEDRINE SULFATE,0.00054833875
+categorical__Strength_100MG/10ML (10MG/ML),0.00054332253
+categorical__DF;Route_SHAMPOO;TOPICAL,0.000542533
+categorical__Ingredient_CIPROFLOXACIN HYDROCHLORIDE,0.0005419196
+categorical__Strength_1%,0.0005344217
+categorical__Dosage_Form_SWAB,0.0005312192
+categorical__Strength_1MG/ML,0.0005252513
+categorical__Ingredient_TRETINOIN,0.0005232597
+categorical__Strength_2.5MG;2.5MG;2.5MG;2.5MG,0.0005210644
+categorical__DF;Route_SOLUTION;DENTAL,0.0005165067
+categorical__Strength_EQ 0.09% ACID,0.0005158383
+categorical__Strength_10MEQ,0.0005143168
+categorical__Strength_0.75%,0.00051199563
+categorical__Ingredient_BROMFENAC SODIUM,0.00051068474
+"categorical__DF;Route_POWDER;INTRACAVITARY, INTRAVENOUS, INTRAVESICAL",0.00050590833
+categorical__Strength_20MG,0.00050474127
+categorical__Strength_1GM/100ML (10MG/ML),0.000489405
+categorical__Strength_12.5MG;12.5MG;12.5MG;12.5MG,0.0004892711
+categorical__Strength_1GM/10ML (100MG/ML),0.00048452325
+categorical__Strength_600MG,0.00048437808
+categorical__Strength_0.5%,0.00048119552
+categorical__Strength_100MG,0.0004698423
+"categorical__Route_Of_Administration_INTRAMUSCULAR, INTRAVENOUS",0.00046503023
+categorical__Ingredient_DORZOLAMIDE HYDROCHLORIDE; TIMOLOL MALEATE,0.0004640694
+categorical__Strength_9.375MG;9.375MG;9.375MG;9.375MG,0.0004636345
+categorical__Strength_3.75MG;3.75MG;3.75MG;3.75MG,0.00046137467
+categorical__Strength_300MG,0.00045983787
+categorical__Strength_2.5MG,0.0004576016
+categorical__Route_Of_Administration_INTRAVESICAL,0.00045425107
+categorical__Dosage_Form_EMULSION,0.00045410806
+categorical__Ingredient_METRONIDAZOLE,0.00045186304
+categorical__DF;Route_SWAB;TOPICAL,0.0004509089
+categorical__Ingredient_CARBAMAZEPINE,0.00044930345
+"categorical__DF;Route_SOLUTION, GEL FORMING/DROPS;OPHTHALMIC",0.00044582886
+categorical__Strength_1GM,0.00044095961
+categorical__Strength_20MG/ML,0.0004360382
+categorical__DF;Route_SOLUTION;IM-IV,0.0004340519
+categorical__Strength_EQ 1MG BASE/ML,0.0004335429
+categorical__DF;Route_SOLUTION;INTRAVESICAL,0.00041973282
+categorical__Ingredient_DESONIDE,0.00040830695
+categorical__Strength_0.15%,0.00040795136
+categorical__Strength_15MEQ,0.00039990307
+categorical__Strength_400MG,0.00039146087
+categorical__Strength_EQ 1.5MG BASE/VIAL,0.00039039925
+categorical__Strength_EQ 0.5MG BASE/VIAL,0.00038974927
+categorical__DF;Route_SUSPENSION/DROPS;OTIC,0.00038502555
+"categorical__DF;Route_INJECTABLE;INTRAMUSCULAR, INTRAVENOUS",0.00037880125
+categorical__Ingredient_DEXAMETHASONE,0.00037767054
+categorical__Strength_60MG,0.0003702221
+categorical__Strength_30MG,0.00036792093
+categorical__Strength_0.2%,0.00035857546
+categorical__Ingredient_BUDESONIDE,0.0003579107
+categorical__Strength_6.25MG;6.25MG;6.25MG;6.25MG,0.0003574334
+categorical__Strength_54MG,0.00035517116
+categorical__Strength_90MG/10ML (9MG/ML),0.00034565773
+categorical__Ingredient_TESTOSTERONE ENANTHATE,0.00034487364
+categorical__Strength_0.5MG/5ML (0.1MG/ML),0.00034480097
+categorical__Ingredient_MAGNESIUM SULFATE,0.000344689
+categorical__Strength_EQ 0.5% BASE,0.0003429848
+categorical__Ingredient_ATROPINE SULFATE,0.0003384151
+categorical__Ingredient_LEVOCARNITINE,0.00033229322
+categorical__Ingredient_BRIMONIDINE TARTRATE,0.00033221918
+categorical__Ingredient_FONDAPARINUX SODIUM,0.00032509692
+categorical__Strength_0.75MG,0.0003204871
+categorical__Strength_50MG,0.00031996876
+categorical__Ingredient_RANOLAZINE,0.0003188961
+categorical__Dosage_Form_SUSPENSION,0.00031707442
+categorical__Strength_50MG/5ML (10MG/ML),0.0003170036
+"categorical__Dosage_Form_INJECTABLE, LIPOSOMAL",0.00031510837
+categorical__Ingredient_METHYLPHENIDATE,0.00031319138
+categorical__Strength_25MG/VIAL,0.00030992756
+categorical__Strength_10MG/ML (10MG/ML),0.0003093127
+categorical__DF;Route_POWDER;INTRAMUSCULAR,0.00030244
+categorical__Strength_50MG/5GM PACKET,0.00029856747
+categorical__Strength_EQ 4MG BASE,0.00029455964
+categorical__Ingredient_DEHYDRATED ALCOHOL,0.00028818732
+categorical__Strength_EQ 0.07% ACID,0.0002881532
+categorical__DF;Route_SOLUTION;INTRA-ARTERIAL,0.00028505558
+categorical__Strength_50MG/10ML (5MG/ML),0.000275707
+categorical__Appl_Type_N,0.0002577372
+categorical__Strength_15MG,0.00025768828
+categorical__DF;Route_CREAM;VAGINAL,0.00025196548
+categorical__Ingredient_LEVETIRACETAM,0.0002476782
+categorical__Appl_Type_A,0.00024607396
+categorical__Strength_0.5MG,0.00023236976
+categorical__Ingredient_FLUOROURACIL,0.00023235453
+categorical__Ingredient_SODIUM BICARBONATE,0.00023210875
+categorical__Strength_EQ 2% BASE;EQ 0.5% BASE,0.00022704783
+numeric__RLD,0.00022669283
+categorical__Ingredient_ZIPRASIDONE MESYLATE,0.00022451371
+categorical__Strength_0.06MG/24HR,0.00022315557
+categorical__Strength_5MG,0.00021532943
+categorical__Ingredient_PILOCARPINE HYDROCHLORIDE,0.00021090836
+numeric__RS,0.00020467778
+categorical__Strength_180MG,0.00019997713
+categorical__Strength_420MG,0.00019342224
+categorical__Ingredient_ADAPALENE,0.00018635478
+categorical__Strength_120MG,0.0001830359
+categorical__Strength_240MG,0.0001745884
+categorical__Ingredient_HALCINONIDE,0.00016563394
+categorical__Strength_27MG,0.00016359707
+"categorical__Strength_0.2MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00015205423
+"categorical__Strength_0.125MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00015173422
+categorical__DF;Route_GEL;VAGINAL,0.00015104513
+"categorical__Strength_0.175MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00015034137
+categorical__Strength_25MG/2.5GM PACKET,0.0001472139
+"categorical__Strength_0.15MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00014677274
+categorical__Strength_360MG,0.00014594333
+"categorical__Strength_0.088MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.0001450365
+"categorical__Dosage_Form_GEL, METERED",0.00014400802
+categorical__Strength_10MG,0.00014379252
+categorical__Ingredient_SEVOFLURANE,0.00014336036
+"categorical__Strength_0.3MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00014191018
+categorical__Ingredient_NEOSTIGMINE METHYLSULFATE,0.00014059378
+"categorical__Strength_0.075MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00013838308
+categorical__Strength_50MG/VIAL,0.00013739649
+categorical__Strength_EQ 1MG BASE,0.00013214763
+categorical__Strength_40MG,0.00013068778
+categorical__Strength_5MG/5ML,0.00012997676
+categorical__Strength_EQ 0.25% BASE,0.00012065797
+"categorical__Strength_0.112MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00011742869
+categorical__Strength_0.1MG/24HR,0.000115794566
+categorical__Strength_0.025MG/24HR,0.00011279785
+categorical__Strength_EQ 5MG BASE,0.00011101088
+categorical__Strength_EQ 50MG BASE,0.00010566039
+categorical__Strength_7.5MG,0.0001039072
+categorical__Strength_0.05MG/24HR,0.00010331951
+"categorical__Strength_0.137MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00010223157
+"categorical__Strength_0.1MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00010067907
+"categorical__Strength_0.05MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",0.00010045354
+categorical__Strength_EQ 6MG BASE,9.78527e-05
+categorical__Strength_EQ 75MG BASE,9.7340206e-05
+categorical__Strength_EQ 100MG BASE,9.363775e-05
+categorical__Strength_0.075MG/24HR,9.177094e-05
+categorical__Strength_EQ 3MG BASE,9.1474205e-05
+"categorical__Strength_0.025MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium",8.9642446e-05
+categorical__Strength_EQ 0.5MG BASE,8.835331e-05
+categorical__DF;Route_SUSPENSION;ORAL,8.691306e-05
+categorical__Strength_0.0375MG/24HR,8.392426e-05
+categorical__Strength_EQ 25MG BASE,7.837152e-05
+categorical__Strength_EQ 10MG BASE,7.231549e-05
+categorical__Strength_EQ 20MG BASE,5.398445e-05
+categorical__Ingredient_DAPTOMYCIN,5.339376e-05
+categorical__Ingredient_PLERIXAFOR,4.1612147e-05
+categorical__Strength_36MG,3.9523566e-05
+categorical__Ingredient_CARBOPLATIN,3.6103298e-05
+categorical__Ingredient_PEMETREXED DISODIUM,2.7083533e-05
+categorical__Strength_2MG,2.1267118e-05
+categorical__Strength_3MG,0.0
+categorical__Strength_4.6MG/24HR,0.0
+categorical__Ingredient_BEPOTASTINE BESILATE,0.0
+"categorical__Strength_3MG,N/A;0.02MG,N/A;0.451MG,0.451MG",0.0
+categorical__Strength_33MG/100ML;30MG/100ML;860MG/100ML,0.0
+"categorical__Strength_400 UNITS/GM;EQ 3.5MG BASE/GM;10,000 UNITS/GM",0.0
+categorical__Strength_4.7GM;100GM;1.015GM;5.9GM;2.691GM;7.5GM,0.0
+categorical__Strength_333MG,0.0
+categorical__Strength_330MG,0.0
+categorical__Strength_350MG/VIAL,0.0
+categorical__Strength_32MG;25MG,0.0
+categorical__Strength_32MG;12.5MG,0.0
+"categorical__Strength_3MG,N/A;0.03MG,N/A;0.451MG,0.451MG",0.0
+categorical__Strength_32MG,0.0
+categorical__Strength_325MG;7.5MG,0.0
+categorical__Strength_4.5MG,0.0
+categorical__Strength_3GM/VIAL **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Ingredient_BENZPHETAMINE HYDROCHLORIDE,0.0
+categorical__Strength_4.5354GM/7.5ML (604.72MG/ML),0.0
+categorical__Strength_3MG/ML;EQ 3MG BASE/ML,0.0
+categorical__Strength_3GM/60ML (50MG/ML),0.0
+categorical__Strength_3MG;0.02MG,0.0
+categorical__Strength_3MG;0.03MG,0.0
+categorical__Ingredient_BENZOYL PEROXIDE; CLINDAMYCIN PHOSPHATE,0.0
+categorical__Strength_3GM/100ML,0.0
+categorical__Strength_39.3068GM/65ML (604.72MG/ML),0.0
+categorical__Ingredient_BENZOYL PEROXIDE; ERYTHROMYCIN,0.0
+categorical__Strength_4-33.1mCi/ML,0.0
+categorical__Strength_4-40mCi/ML,0.0
+categorical__Strength_4.02GM/15ML;4.14GM/15ML (268MG/ML; 276MG/ML),0.0
+categorical__Strength_37.69GM/100ML (376.9MG/ML),0.0
+categorical__Strength_4.02GM/15ML;4.14GM/15ML (268MG/ML;276MG/ML),0.0
+categorical__Strength_37.5MG;20MG,0.0
+categorical__Strength_3MG/ML,0.0
+categorical__Strength_3GM/VIAL,0.0
+categorical__Strength_37.5MG/VIAL,0.0
+categorical__Strength_37.5MG,0.0
+categorical__Strength_37.5MCG/HR,0.0
+categorical__Strength_37.5MG;200MG;150MG,0.0
+categorical__Strength_320MG,0.0
+categorical__Strength_325MG;5MG,0.0
+categorical__Strength_3.75GM/PACKET,0.0
+categorical__Strength_300MG;10MG,0.0
+categorical__Strength_300MG/VIAL,0.0
+categorical__Strength_300MG/5ML,0.0
+categorical__Strength_300MG/4ML,0.0
+categorical__Ingredient_BEXAROTENE,0.0
+categorical__Strength_300MG/16.7ML (18MG/ML),0.0
+categorical__Strength_300MG/15ML (20MG/ML),0.0
+categorical__Strength_300MG/100ML;900MG/100ML,0.0
+categorical__Ingredient_BICALUTAMIDE,0.0
+categorical__Strength_3.769GM/10ML (376.9MG/ML),0.0
+categorical__Strength_3.75mCi-260mCi/ML,0.0
+categorical__Ingredient_BIMATOPROST,0.0
+categorical__Strength_3.75MG,0.0
+categorical__Strength_3.75%;EQ 1.2% BASE,0.0
+categorical__Strength_325MG;50MG;40MG;30MG,0.0
+categorical__Strength_3.75%,0.0
+categorical__Strength_3.5MG/VIAL,0.0
+categorical__Strength_3.5MG,0.0
+categorical__Strength_3.54GM/15ML (236MG/ML);3.36GM/15ML (224MG/ML),0.0
+categorical__Ingredient_BISMUTH SUBCITRATE POTASSIUM; METRONIDAZOLE; TETRACYCLINE HYDROCHLORIDE,0.0
+categorical__Strength_3.125MG,0.0
+categorical__Strength_3%,0.0
+categorical__Strength_2MG;30MG,0.0
+categorical__Strength_2MG/ML,0.0
+categorical__Strength_2MG/ACTUATION,0.0
+categorical__Strength_2MG/5ML;10MG/5ML;30MG/5ML,0.0
+categorical__Strength_2MG/5ML,0.0
+categorical__Strength_2MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_300MG;15MG,0.0
+categorical__Strength_300MG;30MG,0.0
+categorical__Strength_300MG;50MG,0.0
+categorical__Strength_300MG;50MG;40MG,0.0
+categorical__Ingredient_BETAMETHASONE ACETATE; BETAMETHASONE SODIUM PHOSPHATE,0.0
+categorical__Strength_325MG;50MG,0.0
+categorical__Strength_325MG;37.5MG,0.0
+categorical__Strength_325MG;25MG,0.0
+categorical__Strength_325MG;2.5MG,0.0
+categorical__Strength_325MG;10MG,0.0
+categorical__Strength_325MG/15ML;7.5MG/15ML,0.0
+categorical__Strength_325MG,0.0
+categorical__Strength_324MG,0.0
+categorical__Strength_31.25MG;200MG;125MG,0.0
+categorical__Strength_30mCi-300mCi/8ML (3.75-37.5mCi/ML),0.0
+categorical__Strength_30mCi-300mCi (3.75-37.5mCi/ML),0.0
+categorical__Strength_30MG/VIAL,0.0
+categorical__Strength_30MG/ML,0.0
+categorical__Strength_30MG/9HR (3.3MG/HR),0.0
+categorical__Strength_30MG/3ML (10MG/ML),0.0
+categorical__Strength_30MG/30ML (1MG/ML),0.0
+categorical__Ingredient_BETAMETHASONE DIPROPIONATE; CALCIPOTRIENE,0.0
+categorical__Strength_30MG/100ML;37MG/100ML;368MG/100ML;526MG/100ML;502MG/100ML,0.0
+categorical__Strength_30MG/100ML (0.3MG/ML),0.0
+categorical__Ingredient_BETAMETHASONE DIPROPIONATE; CLOTRIMAZOLE,0.0
+categorical__Strength_30MG/0.3ML (100MG/ML),0.0
+categorical__Ingredient_BETAXOLOL HYDROCHLORIDE,0.0
+categorical__Strength_300MG;7.5MG,0.0
+categorical__Strength_300MG;60MG,0.0
+categorical__Strength_300MG;5MG,0.0
+categorical__Strength_300MG;50MG;40MG;30MG,0.0
+"categorical__Strength_400 UNITS/GM;EQ 3.5MG BASE/GM;10,000 UNITS/GM **Federal Register determination that product was not discontinued or withdrawn for s or e reasons**",0.0
+categorical__Strength_400MG/5ML;EQ 57MG BASE/5ML,0.0
+categorical__Strength_400MEQ/100ML (4MEQ/ML),0.0
+categorical__Strength_50MG;0.2MG,0.0
+categorical__Ingredient_AZITHROMYCIN,0.0
+categorical__Strength_50MG/5GM PACKET **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_50MG/5ML,0.0
+categorical__Ingredient_AZILSARTAN KAMEDOXOMIL; CHLORTHALIDONE,0.0
+categorical__Ingredient_AZILSARTAN KAMEDOXOMIL,0.0
+categorical__Ingredient_AZELASTINE HYDROCHLORIDE; FLUTICASONE PROPIONATE,0.0
+categorical__Strength_50MG;100MG,0.0
+categorical__Strength_550MG,0.0
+categorical__Strength_50MG;200MG,0.0
+categorical__Strength_50MG;200MG;200MG,0.0
+categorical__Strength_50MG;25MG,0.0
+categorical__Strength_50MG;75MG,0.0
+categorical__Strength_51%,0.0
+categorical__Ingredient_AZELASTINE HYDROCHLORIDE,0.0
+categorical__Strength_50MG/50ML (1MG/ML),0.0
+categorical__Strength_50MG/2ML (25MG/ML),0.0
+categorical__Strength_50MG/25ML (2MG/ML),0.0
+categorical__Ingredient_AZTREONAM,0.0
+categorical__Strength_50MG/10ML,0.0
+categorical__Strength_50MG/100ML (0.5MG/ML),0.0
+categorical__Strength_50MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Ingredient_BACITRACIN ZINC; NEOMYCIN SULFATE; POLYMYXIN B SULFATE,0.0
+categorical__Strength_50MEQ/50ML (1MEQ/ML),0.0
+categorical__Strength_50MCG/HR,0.0
+categorical__Strength_50GM/100ML,0.0
+categorical__Strength_500MG;EQ 85MG BASE,0.0
+categorical__Strength_500MG;EQ 5MG BASE,0.0
+categorical__Strength_500MG;EQ 50MG BASE,0.0
+categorical__Strength_500MG;EQ 15MG BASE,0.0
+categorical__Strength_500MG;EQ 125MG BASE,0.0
+categorical__Strength_500MG;500MG;30MG,0.0
+categorical__Strength_55%,0.0
+categorical__Strength_5GM/100ML,0.0
+categorical__Strength_500MG/PACKET,0.0
+categorical__Strength_5GM/100ML;75MG/100ML;200MG/100ML,0.0
+categorical__Strength_5GM/100ML;300MG/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;300MG/100ML;900MG/100ML,0.0
+categorical__Strength_5GM/100ML;330MG/100ML,0.0
+categorical__Strength_5GM/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;74.5MG/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;75MG/100ML,0.0
+categorical__Strength_5GM/100ML;75MG/100ML;330MG/100ML,0.0
+categorical__Strength_5GM/100ML (50MG/ML),0.0
+categorical__Strength_5GM/100ML;75MG/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;75MG/100ML;900MG/100ML,0.0
+categorical__Strength_5GM/100ML;900MG/100ML,0.0
+categorical__Strength_5GM/10ML (500MG/ML),0.0
+categorical__Strength_5GM/50ML (100MG/ML),0.0
+categorical__Strength_5GM/PACKET,0.0
+categorical__Strength_5GM/100ML;300MG/100ML;330MG/100ML,0.0
+categorical__Strength_5GM/100ML;300MG/100ML,0.0
+categorical__Strength_5GM/100ML;298MG/100ML;900MG/100ML,0.0
+categorical__Strength_5GM/100ML;298MG/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;225MG/100ML,0.0
+categorical__Strength_5GM/100ML;224MG/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;224MG/100ML;330MG/100ML,0.0
+categorical__Strength_5GM/100ML;224MG/100ML;200MG/100ML,0.0
+categorical__Strength_5GM/100ML;200MG/100ML,0.0
+categorical__Strength_5GM/100ML;150MG/100ML;900MG/100ML,0.0
+categorical__Strength_5GM/100ML;150MG/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;150MG/100ML;330MG/100ML,0.0
+categorical__Strength_5GM/100ML;150MG/100ML;200MG/100ML,0.0
+categorical__Strength_5GM/100ML;150MG/100ML,0.0
+categorical__Strength_5GM/100ML;149MG/100ML;900MG/100ML,0.0
+categorical__Strength_5GM/100ML;149MG/100ML;450MG/100ML,0.0
+categorical__Strength_5GM/100ML;149MG/100ML;225MG/100ML,0.0
+categorical__Strength_500MG/VIAL,0.0
+categorical__Strength_500MG/ML,0.0
+categorical__Ingredient_BENDAMUSTINE HYDROCHLORIDE,0.0
+categorical__Strength_420GM/BOT;1.48GM/BOT;5.72GM/BOT;11.2GM/BOT,0.0
+categorical__Ingredient_BENAZEPRIL HYDROCHLORIDE; HYDROCHLOROTHIAZIDE,0.0
+categorical__Strength_40MG/PACKET;1.68GM/PACKET,0.0
+categorical__Strength_40MG/VIAL,0.0
+categorical__Strength_40MG;1.1GM,0.0
+categorical__Strength_40UNITS/100ML (0.4UNITS/ML),0.0
+categorical__Ingredient_BENAZEPRIL HYDROCHLORIDE,0.0
+categorical__Strength_425MG,0.0
+categorical__Strength_454GM/BOT,0.0
+categorical__Strength_43MG,0.0
+categorical__Strength_44.6MEQ/50ML (0.9MEQ/ML),0.0
+categorical__Strength_450MG,0.0
+categorical__Strength_450MG/100ML,0.0
+categorical__Strength_450MG/45ML (10MG/ML),0.0
+categorical__Strength_450MG/50ML (9MG/ML),0.0
+categorical__Strength_40MG/5ML,0.0
+categorical__Strength_40MG/2ML (20MG/ML),0.0
+categorical__Strength_40MG/20ML (2MG/ML),0.0
+categorical__Strength_40MG/200ML (0.2MG/ML),0.0
+categorical__Strength_40MG/0.4ML (100MG/ML),0.0
+categorical__Strength_40MEQ/20ML (2MEQ/ML),0.0
+categorical__Strength_40MEQ/15ML,0.0
+categorical__Strength_40GM/1000ML (40MG/ML),0.0
+categorical__Strength_400MG;80MG,0.0
+categorical__Strength_400MG/VIAL,0.0
+categorical__Strength_2MCG,0.0
+categorical__Strength_400MG/5ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_400MG/5ML,0.0
+categorical__Strength_400MG/200ML (2MG/ML),0.0
+categorical__Strength_400MG/200ML,0.0
+categorical__Strength_400MG/100ML,0.0
+categorical__Strength_400MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_453.6GM/BOT,0.0
+categorical__Ingredient_BARICITINIB,0.0
+categorical__Strength_500MG/5ML (100MG/ML),0.0
+categorical__Ingredient_BALOXAVIR MARBOXIL,0.0
+categorical__Strength_5.6535GM/15ML (376.9MG/ML),0.0
+categorical__Strength_50%,0.0
+"categorical__Strength_50,000 IU",0.0
+"categorical__Strength_500,000 UNITS",0.0
+categorical__Strength_500MCG,0.0
+categorical__Strength_500MCG/VIAL,0.0
+categorical__Strength_500MG/100ML,0.0
+categorical__Strength_45MG/5ML (9MG/ML),0.0
+categorical__Strength_500MG/100ML (5MG/ML),0.0
+categorical__Strength_500MG/10ML (50MG/ML),0.0
+categorical__Strength_500MG/2.5ML (200MG/ML),0.0
+categorical__Strength_500MG/25ML (20MG/ML),0.0
+categorical__Strength_500MG/50ML (10MG/ML),0.0
+categorical__Ingredient_BACLOFEN,0.0
+"categorical__Strength_5,000,000 UNITS/VIAL",0.0
+"categorical__Strength_5,000 UNITS/ML",0.0
+"categorical__Strength_5,000 UNITS/100ML",0.0
+categorical__Strength_5%;EQ 1% BASE,0.0
+categorical__Strength_5%;3%,0.0
+categorical__Strength_5%;1.2%,0.0
+categorical__Ingredient_BALSALAZIDE DISODIUM,0.0
+categorical__Strength_4MG;30MG,0.0
+categorical__Strength_4MG/ML,0.0
+categorical__Strength_4MG,0.0
+categorical__Strength_4MCG/2ML (2MCG/ML),0.0
+categorical__Strength_4MCG,0.0
+categorical__Strength_4GM/60ML,0.0
+categorical__Strength_4GM/50ML (80MG/ML),0.0
+categorical__Strength_4GM/100ML (40MG/ML),0.0
+categorical__Strength_49MG;51MG,0.0
+categorical__Strength_48MG,0.0
+categorical__Strength_2MEQ/ML,0.0
+categorical__Strength_25MG;50MG,0.0
+categorical__Strength_2GM/VIAL,0.0
+categorical__Strength_1GM/VIAL **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_1MG/2ML (0.5MG/ML),0.0
+categorical__Ingredient_BUPRENORPHINE HYDROCHLORIDE; NALOXONE HYDROCHLORIDE,0.0
+categorical__Strength_1MG/10ML (0.1MG/ML),0.0
+categorical__Ingredient_BUSULFAN,0.0
+categorical__Strength_1MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Ingredient_BUTORPHANOL TARTRATE,0.0
+categorical__Strength_1MCG/ML,0.0
+categorical__Strength_1MCG,0.0
+categorical__Strength_1GM;EQ 62.5MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_1GM;EQ 62.5MG BASE,0.0
+categorical__Strength_1GM;EQ 5MG BASE,0.0
+categorical__Strength_1GM;EQ 50MG BASE,0.0
+categorical__Strength_1GM;EQ 2.5MG BASE,0.0
+categorical__Strength_1GM;EQ 100MG BASE,0.0
+categorical__Strength_1GM/VIAL,0.0
+categorical__Strength_2.5MG;850MG,0.0
+categorical__Ingredient_CABAZITAXEL,0.0
+categorical__Strength_1GM/5ML (200MG/ML),0.0
+categorical__Strength_1GM/50ML (20MG/ML),0.0
+categorical__Strength_1GM/2ML (500MG/ML),0.0
+categorical__Strength_1GM/26.3ML (38MG/ML),0.0
+categorical__Strength_1GM/20ML (50MG/ML),0.0
+categorical__Strength_1GM/200ML (5MG/ML),0.0
+categorical__Ingredient_CABERGOLINE,0.0
+categorical__Strength_1GM/10ML,0.0
+categorical__Ingredient_CAFFEINE CITRATE,0.0
+categorical__Strength_1GM/100ML,0.0
+categorical__Strength_1GM IRON/20ML (50MG IRON/ML),0.0
+categorical__Strength_1GM CONTAINS AT LEAST 900MG OF THE ETHYL ESTERS OF OMEGA-3 FATTY ACIDS,0.0
+categorical__Ingredient_CALCIPOTRIENE,0.0
+categorical__Strength_1MG/5ML,0.0
+categorical__Strength_1MG/72HR,0.0
+categorical__Ingredient_BUPRENORPHINE HYDROCHLORIDE,0.0
+categorical__Strength_1MG/ML (1MG/ML),0.0
+categorical__Strength_2.5MG;500MG,0.0
+categorical__Strength_2.5MG;250MG,0.0
+categorical__Ingredient_BUMETANIDE,0.0
+categorical__Strength_2.5MG;1GM,0.0
+categorical__Strength_2.5MG/VIAL,0.0
+categorical__Strength_2.5MG/SPRAY,0.0
+categorical__Strength_2.5MG/ML,0.0
+categorical__Strength_2.5MG/5ML,0.0
+categorical__Strength_2.5MG/0.5ML (5MG/ML),0.0
+categorical__Strength_2.5MG/0.5ML (2.5MG/0.5ML),0.0
+categorical__Strength_2.5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Ingredient_BUPIVACAINE HYDROCHLORIDE,0.0
+categorical__Strength_2.5MEQ/5ML (0.5MEQ/ML),0.0
+categorical__Strength_2.5MCG,0.0
+categorical__Strength_2.5GM/50ML (50MG/ML),0.0
+categorical__Strength_2.5GM/100ML;450MG/100ML,0.0
+categorical__Strength_2.5%;EQ 1.2% BASE,0.0
+categorical__Strength_2.5%;2.5%,0.0
+categorical__Ingredient_BUPIVACAINE HYDROCHLORIDE; EPINEPHRINE,0.0
+categorical__Strength_2.4GM/PACKET,0.0
+categorical__Strength_2.25MG,0.0
+categorical__Strength_2%;1%,0.0
+categorical__Ingredient_BUPIVACAINE HYDROCHLORIDE; EPINEPHRINE BITARTRATE,0.0
+categorical__Strength_2 IU/ML;40MG/ML;12MCG/ML;40 IU/ML;1MCG/ML;3MG/ML;120MCG/ML;8MG/ML;1.2MG/ML;0.72MG/ML;1.2MG/ML;660 IU/ML;30MCG/ML,0.0
+categorical__Strength_2 IU/ML;40MG/ML;12MCG/ML;40 IU/ML;1MCG/ML;3MG/ML;120MCG/ML;8MG/ML;1.2MG/ML;0.72MG/ML;1.2MG/ML;660 IU/ML;0.03MG/ML,0.0
+categorical__Strength_1mCi/ML,0.0
+categorical__Strength_1MG;0.5MG,0.0
+categorical__Strength_1MG/VIAL,0.0
+categorical__Strength_1MG/SPRAY,0.0
+categorical__Ingredient_CALCITONIN SALMON,0.0
+categorical__Strength_18MG,0.0
+categorical__Strength_18GM/500ML (3.6GM/100ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Ingredient_CALCIUM CHLORIDE,0.0
+categorical__Strength_150MG/20ML (7.5MG/ML),0.0
+categorical__Strength_150MG/15ML (10MG/ML),0.0
+categorical__Strength_150MG/100ML;900MG/100ML,0.0
+categorical__Strength_150MG/100ML;450MG/100ML,0.0
+categorical__Ingredient_CALCIUM CHLORIDE; DEXTROSE; POTASSIUM CHLORIDE; SODIUM CHLORIDE; SODIUM LACTATE,0.0
+categorical__Strength_15%,0.0
+categorical__Strength_14MG/2.8ML (1MG/0.2ML),0.0
+categorical__Strength_14MG,0.0
+categorical__Strength_149MG/100ML;900MG/100ML,0.0
+categorical__Strength_149MG/100ML;450MG/100ML,0.0
+categorical__Strength_145MG,0.0
+categorical__Strength_140MG;125MG;125MG,0.0
+categorical__Strength_140MG,0.0
+categorical__Strength_14.9MG/ML,0.0
+categorical__Strength_134MG,0.0
+categorical__Strength_133MG;200MG,0.0
+categorical__Strength_130MG,0.0
+categorical__Strength_13.4GM/50ML;13.8GM/50ML (268MG/ML;276MG/ML),0.0
+categorical__Strength_13.4GM/50ML;13.8GM/50ML (268MG/ML; 276MG/ML),0.0
+categorical__Strength_13.3MG/24HR,0.0
+categorical__Strength_12MG,0.0
+categorical__Strength_125MG/5ML;EQ 31.25MG BASE/5ML,0.0
+categorical__Strength_125MG/5ML,0.0
+categorical__Strength_125MG/125ML (1MG/ML),0.0
+categorical__Strength_125MG,0.0
+categorical__Strength_120MG/0.8ML (150MG/ML),0.0
+categorical__Strength_12.5MG;EQ 20MG BASE,0.0
+categorical__Strength_12.5MG;EQ 10MG BASE,0.0
+categorical__Strength_12.5MG;80MG,0.0
+categorical__Strength_150MG/30ML (5MG/ML),0.0
+categorical__Strength_150MG/ML (150MG/ML),0.0
+categorical__Strength_18GM/500ML (3.6GM/100ML),0.0
+categorical__Strength_150MG;300MG,0.0
+categorical__Strength_180MG/20ML (9MG/ML),0.0
+categorical__Strength_18.75MG;200MG;75MG,0.0
+categorical__Strength_18.4MG/100ML;2.5GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+categorical__Strength_18.4MG/100ML;1.5GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+categorical__Strength_18.3MG/100ML;4.25GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+categorical__Strength_18.3MG/100ML;2.5GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+categorical__Strength_18.3MG/100ML;1.5GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+categorical__Strength_18.1416GM/30ML (604.72MG/ML),0.0
+categorical__Strength_17.6MG/100ML;325.3MG/100ML;119.3MG/100ML;643MG/100ML,0.0
+categorical__Strength_17.5MG,0.0
+categorical__Strength_17.3MG,0.0
+categorical__Strength_16MG;12.5MG,0.0
+categorical__Strength_16MG,0.0
+categorical__Strength_167MG;250MG,0.0
+categorical__Strength_165MG,0.0
+categorical__Strength_160MG/8ML (20MG/ML),0.0
+categorical__Strength_160MG/16ML (10MG/ML),0.0
+categorical__Strength_160MG/100ML,0.0
+categorical__Strength_160MG,0.0
+categorical__Strength_15MG/VIAL,0.0
+categorical__Strength_15MG/ML,0.0
+categorical__Strength_15MG/9HR (1.6MG/HR),0.0
+categorical__Strength_15MG/5ML;6.25MG/5ML,0.0
+categorical__Strength_15MG/5ML,0.0
+categorical__Ingredient_CALCITRIOL,0.0
+categorical__Ingredient_CALCIUM ACETATE,0.0
+categorical__Strength_15MCG/HR,0.0
+categorical__Strength_15GM/60ML,0.0
+categorical__Strength_15GM/100ML,0.0
+categorical__Strength_2.5MG;6.25MG,0.0
+categorical__Strength_2.98GM/100ML,0.0
+categorical__Strength_2GM/52.6ML (38MG/ML),0.0
+categorical__Ingredient_BOSENTAN,0.0
+categorical__Strength_25MCG/HR,0.0
+categorical__Strength_25GM/50ML (500MG/ML),0.0
+categorical__Strength_250MG;EQ 125MG BASE,0.0
+categorical__Strength_250MG;100MG,0.0
+categorical__Strength_250MG/VIAL,0.0
+categorical__Strength_250MG/ML,0.0
+categorical__Strength_250MG/5ML;EQ 62.5MG BASE/5ML,0.0
+categorical__Ingredient_BORTEZOMIB,0.0
+categorical__Strength_250MG/5ML,0.0
+categorical__Strength_250MG/50ML (5MG/ML),0.0
+categorical__Strength_250MG/2.5ML (100MG/ML),0.0
+categorical__Strength_250MG/10ML,0.0
+categorical__Strength_250MG/100ML,0.0
+categorical__Strength_250MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_250MCG/0.5ML,0.0
+categorical__Ingredient_BROMPHENIRAMINE MALEATE; DEXTROMETHORPHAN HYDROBROMIDE; PSEUDOEPHEDRINE HYDROCHLORIDE,0.0
+categorical__Strength_250MCG,0.0
+categorical__Strength_250-1000mCi,0.0
+categorical__Strength_25.9MG,0.0
+categorical__Strength_25.7MG/100ML;4.25GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+categorical__Strength_25.7MG/100ML;2.5GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+categorical__Strength_25.7MG/100ML;1.5GM/100ML;5.08MG/100ML;538MG/100ML;448MG/100ML,0.0
+"categorical__Strength_25,000MG/50ML (500MG/ML)",0.0
+categorical__Strength_24MG;26MG,0.0
+categorical__Strength_24MG/1.2ML (20MG/ML),0.0
+categorical__Strength_24MCG,0.0
+categorical__Strength_23MG,0.0
+categorical__Strength_236GM/BOT;2.97GM/BOT;6.74GM/BOT;5.86GM/BOT;22.74GM/BOT,0.0
+categorical__Strength_234MG/ML,0.0
+categorical__Strength_231MG,0.0
+categorical__Ingredient_BLEOMYCIN SULFATE,0.0
+categorical__Strength_25MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_25MG/10ML (2.5MG/ML),0.0
+categorical__Strength_25MG/10ML (2.5MG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_2GM/50ML (40MG/ML),0.0
+categorical__Strength_2GM/100ML (20MG/ML),0.0
+categorical__Strength_2GM/100ML,0.0
+categorical__Strength_29.8MG/ML,0.0
+categorical__Strength_28MG,0.0
+categorical__Strength_279.3MG/ML,0.0
+categorical__Strength_270MG/30ML (9MG/ML),0.0
+categorical__Strength_267MG,0.0
+categorical__Strength_26.6MG;800MG,0.0
+categorical__Strength_25MG;EQ 20MG BASE,0.0
+categorical__Strength_25MG;80MG,0.0
+categorical__Strength_5MEQ,0.0
+categorical__Strength_25MG;40MG,0.0
+categorical__Strength_25MG;37.5MG,0.0
+categorical__Strength_25MG;320MG,0.0
+categorical__Strength_25MG;300MG,0.0
+categorical__Strength_25MG;25MG,0.0
+categorical__Strength_25MG;250MG,0.0
+categorical__Strength_25MG;20MG,0.0
+categorical__Strength_25MG;200MG;100MG,0.0
+categorical__Strength_25MG;200MG,0.0
+categorical__Strength_25MG;160MG,0.0
+categorical__Strength_25MG;100MG,0.0
+categorical__Ingredient_BISOPROLOL FUMARATE,0.0
+categorical__Strength_25MG/ML (25MG/ML),0.0
+categorical__Ingredient_BISOPROLOL FUMARATE; HYDROCHLOROTHIAZIDE,0.0
+categorical__Ingredient_BIVALIRUDIN,0.0
+categorical__Strength_25MG/5ML,0.0
+categorical__Strength_25MG/2.5GM PACKET **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_225MG,0.0
+categorical__Strength_22.75MG/ML,0.0
+categorical__Strength_22.5mCi-225mCi/6ML (3.75-37.5mCi/ML),0.0
+categorical__Strength_20GM/100ML,0.0
+categorical__Strength_200UNITS/10ML (20UNITS/ML),0.0
+categorical__Strength_200MG;EQ 25MG BASE;EQ 25MG BASE,0.0
+categorical__Strength_200MG;EQ 25MG BASE;300MG,0.0
+categorical__Strength_200MG;EQ 25MG BASE,0.0
+categorical__Strength_200MG;50MG,0.0
+categorical__Strength_200MG;300MG,0.0
+categorical__Strength_200MG/VIAL,0.0
+categorical__Ingredient_BRIVARACETAM,0.0
+categorical__Strength_200MG/5ML;EQ 28.5MG BASE/5ML,0.0
+categorical__Strength_200MG/5ML;40MG/5ML,0.0
+categorical__Strength_200MG/5ML,0.0
+categorical__Strength_200MG/5.26ML (38MG/ML),0.0
+categorical__Strength_200MG/20ML (10MG/ML),0.0
+categorical__Strength_200MG/10ML (20MG/ML),0.0
+categorical__Strength_200MG/100ML (2MG/ML),0.0
+categorical__Strength_200MG/100ML,0.0
+categorical__Ingredient_BROMOCRIPTINE MESYLATE,0.0
+categorical__Strength_200MEQ/100ML (2MEQ/ML),0.0
+categorical__Strength_200MCG/VIAL,0.0
+categorical__Strength_200 UNITS/100ML,0.0
+categorical__Strength_200 IU/SPRAY,0.0
+categorical__Strength_200 IU/ML,0.0
+categorical__Strength_20-500mCi/ML,0.0
+categorical__Strength_20-400mCi/ML,0.0
+categorical__Strength_20-300mCi/ML,0.0
+categorical__Strength_20-240mCi/ML,0.0
+categorical__Strength_20-200mCi/ML,0.0
+"categorical__Strength_20,000,000 UNITS/VIAL",0.0
+"categorical__Strength_20,000 UNITS/ML",0.0
+categorical__Strength_200uCi,0.0
+categorical__Strength_20GM/500ML (40MG/ML),0.0
+categorical__Strength_22.5MG,0.0
+categorical__Strength_20GM/PACKET,0.0
+categorical__Strength_21MG,0.0
+categorical__Strength_20UNITS/ML (20UNITS/ML),0.0
+categorical__Strength_20UNITS/100ML (0.2UNITS/ML),0.0
+categorical__Strength_20MG;25MG,0.0
+categorical__Strength_20MG;12.5MG,0.0
+categorical__Strength_20MG;10MG,0.0
+categorical__Strength_20MG;1.1GM,0.0
+categorical__Strength_20MG/VIAL,0.0
+categorical__Strength_20MG/SPRAY,0.0
+categorical__Strength_20MG/PACKET;1.68GM/PACKET,0.0
+categorical__Strength_20MG/ML (20MG/ML),0.0
+categorical__Ingredient_BOSUTINIB MONOHYDRATE,0.0
+categorical__Strength_20MG/9HR (2.2MG/HR),0.0
+categorical__Strength_20MG/5ML,0.0
+categorical__Strength_20MG/4ML (5MG/ML),0.0
+categorical__Strength_20MG/2ML (10MG/ML),0.0
+categorical__Strength_20MG/20ML (1MG/ML),0.0
+categorical__Strength_20MG/200ML (0.1MG/ML),0.0
+categorical__Strength_20MG/10ML (2MG/ML),0.0
+categorical__Strength_20MG/100ML;5GM/100ML;30MG/100ML;600MG/100ML;310MG/100ML,0.0
+categorical__Strength_20MG/100ML;5GM/100ML;254MG/100ML;600MG/100ML;310MG/100ML,0.0
+categorical__Strength_20MG/100ML;5GM/100ML;179MG/100ML;600MG/100ML;310MG/100ML,0.0
+categorical__Strength_20MG/100ML;40MG/100ML;6.25MG/100ML;800MG/100ML;8.75MG/100ML,0.0
+categorical__Strength_20MG/100ML;30MG/100ML;600MG/100ML;310MG/100ML,0.0
+categorical__Strength_20MG/100ML (0.2MG/ML),0.0
+categorical__Ingredient_BREXPIPRAZOLE,0.0
+categorical__Strength_20MEQ/15ML,0.0
+categorical__Ingredient_BRINZOLAMIDE,0.0
+categorical__Strength_20MCG/HR,0.0
+categorical__Strength_5MCG/HR,0.0
+categorical__Strength_5MG/VIAL,0.0
+categorical__Strength_5MEQ/10ML (0.5MEQ/ML),0.0
+categorical__Strength_EQ 4MG BASE/PACKET,0.0
+categorical__Strength_EQ 50MG BASE/100ML,0.0
+categorical__Strength_EQ 50MG ACID,0.0
+categorical__Strength_EQ 500MG/20ML (EQ 25MG/ML),0.0
+categorical__Strength_EQ 500MG/100ML (EQ 5MG/ML),0.0
+categorical__Strength_EQ 500MG VALPROIC ACID,0.0
+categorical__Strength_EQ 500MG BASE/VIAL;500MG/VIAL,0.0
+categorical__Strength_EQ 500MG BASE/VIAL,0.0
+categorical__Strength_EQ 500MG BASE/5ML (EQ 100MG BASE/ML),0.0
+categorical__Strength_EQ 500MG BASE/5ML,0.0
+categorical__Strength_EQ 500MG BASE,0.0
+"categorical__Strength_EQ 500,000 UNITS BASE/VIAL",0.0
+categorical__Strength_EQ 4MG PHOSPHATE/ML,0.0
+categorical__Strength_EQ 4MG BASE;EQ 1MG BASE,0.0
+categorical__Strength_EQ 4MG BASE/VIAL,0.0
+categorical__Strength_EQ 4MG BASE/5ML,0.0
+categorical__Ingredient_APALUTAMIDE,0.0
+categorical__Strength_EQ 4MG BASE/4ML (EQ 1MG BASE/ML),0.0
+categorical__Strength_EQ 4MG BASE/250ML (EQ 16MCG BASE/ML),0.0
+categorical__Strength_EQ 4MG BASE/100ML,0.0
+categorical__Strength_EQ 4MG BASE/0.5ML (EQ 8MG BASE/ML),0.0
+categorical__Ingredient_APIXABAN,0.0
+categorical__Strength_EQ 4GM RESIN/SCOOPFUL,0.0
+categorical__Strength_EQ 4GM RESIN/PACKET,0.0
+categorical__Strength_EQ 4GM BASE/VIAL;EQ 500MG BASE/VIAL,0.0
+categorical__Strength_EQ 45MG FENOFIBRIC ACID,0.0
+categorical__Strength_EQ 45MG BASE,0.0
+categorical__Strength_EQ 450MG BASE,0.0
+categorical__Strength_EQ 40MG MEDOXOMIL;12.5MG,0.0
+categorical__Strength_EQ 40MG MEDOXOMIL,0.0
+categorical__Strength_EQ 40MG BASE/VIAL,0.0
+categorical__Strength_EQ 50MG BASE/2ML (EQ 25MG BASE/ML),0.0
+categorical__Strength_EQ 50MG BASE/VIAL,0.0
+categorical__Strength_EQ 40MG BASE/ML,0.0
+categorical__Strength_EQ 5MG BASE;10MG,0.0
+categorical__Strength_EQ 6.14MG BASE;15MG,0.0
+categorical__Strength_EQ 5MG BASE;EQ 80MG BASE,0.0
+categorical__Strength_EQ 5MG BASE;EQ 40MG BASE,0.0
+categorical__Strength_EQ 5MG BASE;EQ 20MG BASE,0.0
+categorical__Strength_EQ 5MG BASE;EQ 10MG BASE,0.0
+categorical__Strength_EQ 5MG BASE;40MG,0.0
+categorical__Strength_EQ 5MG BASE;320MG,0.0
+categorical__Strength_EQ 5MG BASE;25MG;40MG,0.0
+categorical__Strength_EQ 5MG BASE;25MG;160MG,0.0
+categorical__Strength_EQ 5MG BASE;20MG,0.0
+categorical__Strength_EQ 5MG BASE;160MG,0.0
+categorical__Strength_EQ 5MG BASE;12.5MG;40MG,0.0
+categorical__Strength_EQ 5MG BASE;12.5MG;20MG,0.0
+categorical__Strength_EQ 5MG BASE;12.5MG;160MG,0.0
+categorical__Strength_EQ 5MG BASE/VIAL,0.0
+categorical__Strength_EQ 50MG BASE;EQ 12MG BASE,0.0
+categorical__Strength_EQ 5MG BASE/PACKET,0.0
+categorical__Strength_EQ 5MG BASE/ML,0.0
+categorical__Strength_EQ 5MG BASE/5ML,0.0
+categorical__Strength_EQ 5MG BASE/100ML (EQ 0.05MG BASE/ML),0.0
+categorical__Strength_EQ 5MG BASE/100ML,0.0
+categorical__Strength_EQ 5MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_EQ 5MG ANHYDROUS;50MG,0.0
+categorical__Strength_EQ 5GM BASE/VIAL,0.0
+categorical__Strength_EQ 55MG BASE,0.0
+categorical__Strength_EQ 50MG TARTRATE,0.0
+categorical__Strength_EQ 50MG PHENYTOIN NA/ML,0.0
+categorical__Strength_EQ 50MG IRON/2.5ML (EQ 20MG IRON/ML),0.0
+categorical__Strength_EQ 50MG HYDROCHLORIDE,0.0
+categorical__Strength_EQ 50MG BASE;EQ 6MG BASE,0.0
+categorical__Strength_EQ 40MG BASE/PACKET,0.0
+categorical__Strength_EQ 40MG BASE/200ML (EQ 0.2MG BASE/ML),0.0
+categorical__Strength_EQ 6.3MG BASE,0.0
+categorical__Strength_EQ 25MG ACID,0.0
+categorical__Strength_EQ 2MG BASE,0.0
+categorical__Strength_EQ 2GM BASE/VIAL;EQ 250MG BASE/VIAL,0.0
+categorical__Strength_EQ 2GM BASE/VIAL;EQ 1GM BASE/VIAL,0.0
+categorical__Strength_EQ 2GM BASE/VIAL,0.0
+categorical__Strength_EQ 25MG TARTRATE,0.0
+categorical__Strength_EQ 25MG HYDROCHLORIDE,0.0
+categorical__Strength_EQ 25MG BASE;EQ 6MG BASE,0.0
+categorical__Strength_EQ 25MG BASE;EQ 3MG BASE,0.0
+categorical__Strength_EQ 25MG BASE;EQ 12MG BASE,0.0
+categorical__Strength_EQ 25MG BASE/ML,0.0
+categorical__Strength_EQ 25MG BASE/5ML (EQ 5MG BASE/ML),0.0
+categorical__Strength_EQ 25MG BASE/5ML,0.0
+categorical__Strength_EQ 25MG BASE/12.5ML (EQ 2MG BASE/ML),0.0
+categorical__Strength_EQ 25MG ACID/PACKET,0.0
+categorical__Strength_EQ 250MG/50ML (EQ 5MG/ML),0.0
+categorical__Strength_EQ 2MG BASE/5ML,0.0
+categorical__Strength_EQ 250MG VALPROIC ACID,0.0
+categorical__Strength_EQ 250MG BASE/VIAL,0.0
+categorical__Strength_EQ 250MG BASE/ML,0.0
+categorical__Strength_EQ 250MG BASE/5ML,0.0
+categorical__Strength_EQ 250MG BASE/25ML (EQ 10MG BASE/ML),0.0
+categorical__Strength_EQ 250MG BASE/10ML (EQ 25MG BASE/ML),0.0
+categorical__Strength_EQ 250MG BASE,0.0
+categorical__Strength_EQ 24MG BASE,0.0
+categorical__Strength_EQ 22MG BASE,0.0
+categorical__Strength_EQ 225MG BASE,0.0
+categorical__Strength_EQ 210MG IRON,0.0
+categorical__Strength_EQ 20MG BASE;500MG,0.0
+categorical__Strength_EQ 20MG BASE;375MG,0.0
+categorical__Ingredient_APRACLONIDINE HYDROCHLORIDE,0.0
+categorical__Strength_EQ 2MG BASE/2ML (EQ 1MG BASE/ML),0.0
+categorical__Strength_EQ 2MG BASE/ML,0.0
+categorical__Ingredient_APOMORPHINE HYDROCHLORIDE,0.0
+categorical__Strength_EQ 35MG BASE,0.0
+categorical__Strength_EQ 400MG BASE/5ML,0.0
+categorical__Strength_EQ 400MG BASE/100ML,0.0
+categorical__Strength_EQ 400MG BASE,0.0
+categorical__Strength_EQ 400MCG BASE/4ML (EQ 100MCG BASE/ML),0.0
+categorical__Strength_EQ 400MCG BASE/100ML (EQ 4MCG BASE/ML),0.0
+categorical__Strength_EQ 4.5MG BASE,0.0
+categorical__Strength_EQ 3MG BASE/3ML,0.0
+categorical__Strength_EQ 3GM BASE/VIAL;EQ 375MG BASE/VIAL,0.0
+categorical__Strength_EQ 3GM BASE/PACKET,0.0
+categorical__Strength_EQ 375MG BASE/5ML (EQ 75MG BASE/ML),0.0
+categorical__Strength_EQ 375MG BASE,0.0
+categorical__Strength_EQ 37.5MG BASE,0.0
+categorical__Strength_EQ 36GM BASE/VIAL;EQ 4.5GM BASE/VIAL,0.0
+categorical__Strength_EQ 360MG BASE,0.0
+categorical__Strength_EQ 350MG BASE/VIAL,0.0
+categorical__Strength_EQ 2MG BASE/VIAL,0.0
+categorical__Strength_EQ 30MG BASE/VIAL,0.0
+categorical__Strength_EQ 30MG BASE/3ML (EQ 10MG BASE/ML),0.0
+categorical__Strength_EQ 30MG BASE/30ML (EQ 1MG BASE/ML),0.0
+categorical__Strength_EQ 30MG BASE/15ML (EQ 2MG BASE/ML),0.0
+categorical__Strength_EQ 30MG BASE/10ML (EQ 3MG BASE/ML),0.0
+categorical__Strength_EQ 30MG BASE,0.0
+categorical__Strength_EQ 300MG CARBONATE/5ML,0.0
+categorical__Strength_EQ 300MG BASE/ML,0.0
+categorical__Strength_EQ 300MG BASE/5ML,0.0
+categorical__Strength_EQ 300MG BASE,0.0
+categorical__Strength_EQ 30 UNITS BASE/VIAL,0.0
+categorical__Strength_EQ 3.75MG BASE;23MG,0.0
+categorical__Strength_EQ 3.1MG BASE,0.0
+categorical__Strength_EQ 2MG BASE;EQ 0.5MG BASE,0.0
+categorical__Strength_EQ 6.25MG BASE,0.0
+categorical__Strength_EQ 600MCG SELENIUM/10ML (EQ 60MCG SELENIUM/ML),0.0
+categorical__Strength_EQ 20MG BASE/ML,0.0
+categorical__Ingredient_ALVIMOPAN,0.0
+categorical__Ingredient_ALLOPURINOL,0.0
+categorical__Ingredient_ALLOPURINOL SODIUM,0.0
+"categorical__Route_Of_Administration_BUCCAL, SUBLINGUAL",0.0
+categorical__Dosage_Form_TROCHE/LOZENGE,0.0
+"categorical__Dosage_Form_TABLET, ORALLY DISINTEGRATING, EXTENDED RELEASE",0.0
+"categorical__Dosage_Form_TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE",0.0
+categorical__Ingredient_ALMOTRIPTAN MALATE,0.0
+"categorical__Dosage_Form_TABLET, FOR SUSPENSION",0.0
+categorical__Ingredient_ALOSETRON HYDROCHLORIDE,0.0
+"categorical__Dosage_Form_TABLET, DELAYED RELEASE",0.0
+"categorical__Dosage_Form_TABLET, CHEWABLE",0.0
+categorical__Ingredient_ALPHA-TOCOPHEROL ACETATE; ASCORBIC ACID; BIOTIN; CHOLECALCIFEROL; CYANOCOBALAMIN; DEXPANTHENOL; FOLIC ACID; NIACINAMIDE; PYRIDOXINE HYDROCHLORIDE; RIBOFLAVIN 5'-PHOSPHATE SODIUM; THIAMINE HYDROCHLORIDE; VITAMIN A PALMITATE; VITAMIN K,0.0
+categorical__Ingredient_ALPRAZOLAM,0.0
+categorical__Ingredient_ALPROSTADIL,0.0
+categorical__Ingredient_AMANTADINE HYDROCHLORIDE,0.0
+categorical__Ingredient_ALFUZOSIN HYDROCHLORIDE,0.0
+categorical__Ingredient_AMBRISENTAN,0.0
+categorical__Dosage_Form_SUPPOSITORY,0.0
+"categorical__Dosage_Form_SPRAY, METERED",0.0
+categorical__Ingredient_AMIKACIN SULFATE,0.0
+categorical__Ingredient_AMILORIDE HYDROCHLORIDE,0.0
+categorical__Ingredient_AMILORIDE HYDROCHLORIDE; HYDROCHLOROTHIAZIDE,0.0
+"categorical__Dosage_Form_SOLUTION, GEL FORMING/DROPS",0.0
+categorical__Ingredient_AMINOCAPROIC ACID,0.0
+categorical__Dosage_Form_SHAMPOO,0.0
+categorical__Dosage_Form_RING,0.0
+categorical__Ingredient_AMIODARONE HYDROCHLORIDE,0.0
+categorical__Dosage_Form_PATCH,0.0
+categorical__Dosage_Form_PASTE,0.0
+"categorical__Dosage_Form_OINTMENT, AUGMENTED",0.0
+categorical__Ingredient_ALISKIREN HEMIFUMARATE,0.0
+categorical__Ingredient_ALENDRONATE SODIUM,0.0
+categorical__Dosage_Form_OIL/DROPS,0.0
+"categorical__Route_Of_Administration_IRRIGATION, URETHRAL",0.0
+categorical__Ingredient_ABACAVIR SULFATE,0.0
+categorical__Ingredient_ABACAVIR SULFATE; LAMIVUDINE,0.0
+categorical__Ingredient_ABIRATERONE ACETATE,0.0
+categorical__Ingredient_ACAMPROSATE CALCIUM,0.0
+categorical__Route_Of_Administration_SPINAL,0.0
+categorical__Route_Of_Administration_RECTAL,0.0
+"categorical__Route_Of_Administration_PERFUSION, CARDIAC",0.0
+categorical__Ingredient_ACARBOSE,0.0
+categorical__Ingredient_ACEBUTOLOL HYDROCHLORIDE,0.0
+categorical__Route_Of_Administration_ORAL-21,0.0
+categorical__Ingredient_ACETAMINOPHEN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE,0.0
+categorical__Ingredient_ACETAMINOPHEN; TRAMADOL HYDROCHLORIDE,0.0
+categorical__Ingredient_ACETAZOLAMIDE,0.0
+categorical__Ingredient_ACETAZOLAMIDE SODIUM,0.0
+"categorical__Ingredient_ACETIC ACID, GLACIAL; HYDROCORTISONE",0.0
+"categorical__Route_Of_Administration_INJECTION, ORAL",0.0
+categorical__Ingredient_ACITRETIN,0.0
+categorical__Ingredient_ACYCLOVIR SODIUM,0.0
+"categorical__Route_Of_Administration_INTRAVENOUS, INTRAOCULAR, INTRAMUSCULAR, SUBCUTANEOUS",0.0
+"categorical__Route_Of_Administration_INTRAVENOUS, INTRAMUSCULAR, SUBCUTANEOUS, INTRAOSSEOUS, ENDOTRACHEAL",0.0
+categorical__Route_Of_Administration_INTRATHECAL,0.0
+categorical__Ingredient_ADAPALENE; BENZOYL PEROXIDE,0.0
+categorical__Ingredient_ADEFOVIR DIPIVOXIL,0.0
+categorical__Ingredient_ADENOSINE,0.0
+categorical__Ingredient_ALBENDAZOLE,0.0
+categorical__Ingredient_ALBUTEROL SULFATE; IPRATROPIUM BROMIDE,0.0
+categorical__Ingredient_ALCLOMETASONE DIPROPIONATE,0.0
+categorical__Route_Of_Administration_INTRA-ARTERIAL,0.0
+categorical__Route_Of_Administration_INTRA-ANAL,0.0
+"categorical__Route_Of_Administration_INJECTION, ORAL, RECTAL",0.0
+categorical__Ingredient_AMLODIPINE BESYLATE,0.0
+categorical__Dosage_Form_OIL,0.0
+categorical__Strength_EQ 600MG BASE,0.0
+categorical__Strength_EQ 750MG/150ML (EQ 5MG/ML),0.0
+categorical__Strength_EQ 90MG BASE,0.0
+categorical__Strength_EQ 9.4MG BASE,0.0
+categorical__Strength_EQ 8MG BASE;EQ 2MG BASE,0.0
+categorical__Strength_EQ 8MG BASE/250ML (EQ 32MCG BASE/ML),0.0
+categorical__Strength_EQ 8MG BASE,0.0
+categorical__Strength_EQ 84MG BASE,0.0
+categorical__Strength_EQ 80MG MEDOXOMIL,0.0
+categorical__Strength_EQ 80MG BASE,0.0
+categorical__Strength_EQ 80MCG BASE/20ML (EQ 4MCG BASE/ML),0.0
+categorical__Strength_EQ 8.19MG BASE;20MG,0.0
+categorical__Strength_EQ 75MG HYDROCHLORIDE,0.0
+categorical__Strength_EQ 75MG BASE/5ML,0.0
+categorical__Strength_EQ 75MG ACID,0.0
+categorical__Strength_EQ 750MG/30ML (EQ 25MG/ML),0.0
+categorical__Strength_EQ 750MG BASE/VIAL,0.0
+categorical__Strength_UNKNOWN,0.0
+categorical__Strength_EQ 750MG BASE,0.0
+categorical__Strength_EQ 70MG BASE/75ML,0.0
+categorical__Strength_EQ 70MG BASE,0.0
+categorical__Strength_EQ 700MG BASE,0.0
+categorical__Strength_EQ 7.5MG BASE;46MG,0.0
+categorical__Strength_EQ 7.5MG BASE,0.0
+categorical__Strength_EQ 6MG BASE/ML,0.0
+categorical__Ingredient_ANASTROZOLE,0.0
+categorical__Strength_EQ 65MG BASE,0.0
+categorical__Strength_EQ 62.5MG IRON/5ML (EQ 12.5MG IRON/ML),0.0
+categorical__Strength_EQ 60MG BASE/0.2ML (EQ 60MG BASE/0.2ML),0.0
+categorical__Strength_EQ 60MG BASE,0.0
+categorical__Strength_EQ 60MCG SELENIUM/ML (EQ 60MCG SELENIUM/ML),0.0
+categorical__Strength_EQ 600MG BASE;300MG,0.0
+categorical__Strength_EQ 90MG BASE/0.3ML (EQ 90MG BASE/0.3ML),0.0
+categorical__Ingredient_ANAGRELIDE HYDROCHLORIDE,0.0
+"categorical__Dosage_Form_LOTION, AUGMENTED",0.0
+categorical__Ingredient_AMMONIA N-13,0.0
+categorical__Ingredient_AMLODIPINE BESYLATE; ATORVASTATIN CALCIUM,0.0
+categorical__Ingredient_AMLODIPINE BESYLATE; BENAZEPRIL HYDROCHLORIDE,0.0
+categorical__Dosage_Form_JELLY,0.0
+categorical__Dosage_Form_INSERT,0.0
+categorical__Ingredient_AMLODIPINE BESYLATE; HYDROCHLOROTHIAZIDE; OLMESARTAN MEDOXOMIL,0.0
+categorical__Ingredient_AMLODIPINE BESYLATE; HYDROCHLOROTHIAZIDE; VALSARTAN,0.0
+categorical__Dosage_Form_GRANULE,0.0
+"categorical__Dosage_Form_GEL, AUGMENTED",0.0
+categorical__Ingredient_AMLODIPINE BESYLATE; OLMESARTAN MEDOXOMIL,0.0
+categorical__Dosage_Form_GAS,0.0
+"categorical__Dosage_Form_FOR SUSPENSION, EXTENDED RELEASE",0.0
+"categorical__Dosage_Form_FOR SUSPENSION, DELAYED RELEASE",0.0
+categorical__Dosage_Form_FOR SUSPENSION,0.0
+categorical__Ingredient_AMLODIPINE BESYLATE; VALSARTAN,0.0
+categorical__Dosage_Form_FILM,0.0
+categorical__Ingredient_AMPICILLIN/AMPICILLIN TRIHYDRATE,0.0
+categorical__Dosage_Form_ENEMA,0.0
+categorical__Ingredient_AMMONIUM LACTATE,0.0
+categorical__Ingredient_AMOXAPINE,0.0
+"categorical__Dosage_Form_CREAM, AUGMENTED",0.0
+categorical__Ingredient_AMOXICILLIN; CLARITHROMYCIN; LANSOPRAZOLE,0.0
+categorical__Ingredient_AMOXICILLIN; CLAVULANATE POTASSIUM,0.0
+"categorical__Dosage_Form_CAPSULE, TABLET, CAPSULE, DELAYED REL PELLETS",0.0
+categorical__Ingredient_AMPHETAMINE,0.0
+"categorical__Dosage_Form_CAPSULE, DELAYED RELEASE",0.0
+"categorical__Dosage_Form_CAPSULE, DELAYED REL PELLETS",0.0
+categorical__Ingredient_AMPHOTERICIN B,0.0
+categorical__Ingredient_AMPICILLIN SODIUM,0.0
+categorical__Ingredient_AMPICILLIN SODIUM; SULBACTAM SODIUM,0.0
+categorical__Type_RX,0.0
+categorical__Strength_EQ 20MG BASE/PACKET,0.0
+categorical__Strength_EQ 20MG BASE/5ML,0.0
+categorical__Strength_5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_80MG,0.0
+categorical__Strength_875MG;EQ 125MG BASE,0.0
+categorical__Strength_875MG,0.0
+categorical__Strength_87.5MCG/HR,0.0
+categorical__Strength_850MG;EQ 15MG BASE,0.0
+categorical__Strength_850MG,0.0
+categorical__Strength_82.5MG,0.0
+"categorical__Strength_80MG/VIAL;0.02MG/VIAL;400 IU/VIAL;0.001MG/VIAL;5MG/VIAL;0.14MG/VIAL;17MG/VIAL;1MG/VIAL;1.4MG/VIAL;1.2MG/VIAL;7 IU/VIAL;2,300 IU/VIAL;0.2MG/VIAL",0.0
+categorical__Strength_80MG/ML;16MG/ML,0.0
+categorical__Ingredient_ATORVASTATIN CALCIUM,0.0
+categorical__Strength_80MG/8ML (10MG/ML),0.0
+categorical__Strength_80MG/4ML (20MG/ML),0.0
+categorical__Strength_80MG/15ML,0.0
+categorical__Strength_80MG/100ML,0.0
+categorical__Strength_80MG/0.8ML (100MG/ML),0.0
+categorical__Strength_801MG,0.0
+categorical__Ingredient_ATOMOXETINE HYDROCHLORIDE,0.0
+categorical__Strength_800PPM,0.0
+categorical__Strength_800MG;160MG,0.0
+categorical__Strength_800MG/PACKET,0.0
+categorical__Strength_800MG/100ML,0.0
+categorical__Ingredient_ATOVAQUONE,0.0
+categorical__Strength_8.6MG,0.0
+categorical__Strength_8.5MG,0.0
+categorical__Strength_8%,0.0
+categorical__Strength_7MG,0.0
+categorical__Strength_76%,0.0
+categorical__Strength_75MG;25MG,0.0
+categorical__Strength_75MG;0.2MG,0.0
+categorical__Strength_75MG/ML,0.0
+categorical__Strength_75MG/100ML,0.0
+categorical__Strength_8MCG,0.0
+categorical__Strength_8MG,0.0
+categorical__Strength_75MCG/HR,0.0
+categorical__Strength_EQ 0.005MG BASE,0.0
+categorical__Strength_EQ 0.083% BASE;0.017%,0.0
+categorical__Strength_EQ 0.083% BASE,0.0
+categorical__Strength_EQ 0.075% ACID,0.0
+categorical__Ingredient_ASPIRIN; BUTALBITAL; CAFFEINE; CODEINE PHOSPHATE,0.0
+categorical__Ingredient_ASPIRIN; DIPYRIDAMOLE,0.0
+categorical__Strength_EQ 0.05MG BASE,0.0
+categorical__Strength_EQ 0.05% BASE;1%,0.0
+categorical__Strength_EQ 0.05% BASE,0.0
+categorical__Strength_EQ 0.042% BASE,0.0
+categorical__Strength_EQ 0.025MG BASE,0.0
+categorical__Strength_EQ 0.021% BASE,0.0
+categorical__Strength_EQ 0.018MG BASE/INH,0.0
+categorical__Strength_EQ 0.015MG BASE/2ML,0.0
+categorical__Strength_EQ 0.0103% BASE,0.0
+categorical__Strength_EQ 0.004MG CHROMIUM/ML,0.0
+categorical__Strength_8MG/20ML (0.4MG/ML),0.0
+categorical__Strength_9MG,0.0
+categorical__Strength_99.9%,0.0
+categorical__Strength_99% (5ML),0.0
+categorical__Strength_97MG;103MG,0.0
+categorical__Strength_90MG/VIAL,0.0
+categorical__Strength_90MG/30ML (3MG/ML),0.0
+categorical__Ingredient_ATAZANAVIR SULFATE,0.0
+categorical__Ingredient_ATENOLOL,0.0
+categorical__Strength_900MG/100ML,0.0
+categorical__Strength_900MG,0.0
+categorical__Strength_9.5MG/24HR,0.0
+categorical__Ingredient_ATENOLOL; CHLORTHALIDONE,0.0
+categorical__Strength_9.0708GM/15ML (604.72MG/ML),0.0
+categorical__Strength_8MG/ML,0.0
+categorical__Strength_75MG,0.0
+categorical__Strength_750MG/5ML,0.0
+categorical__Ingredient_ASENAPINE MALEATE,0.0
+categorical__Strength_6.0472GM/10ML (604.72MG/ML),0.0
+categorical__Strength_60MG/1.5ML (40MG/ML),0.0
+categorical__Strength_60MG/0.6ML (100MG/ML),0.0
+categorical__Ingredient_AVANAFIL,0.0
+categorical__Strength_600MG;300MG;300MG,0.0
+categorical__Strength_600MG;200MG;300MG,0.0
+categorical__Strength_600MG/VIAL,0.0
+categorical__Strength_600MG/60ML (10MG/ML),0.0
+categorical__Strength_600MG/5ML;EQ 42.9MG BASE/5ML,0.0
+categorical__Strength_600MG/5ML,0.0
+categorical__Strength_600MG/300ML (2MG/ML),0.0
+categorical__Ingredient_AZACITIDINE,0.0
+categorical__Ingredient_AZATHIOPRINE,0.0
+categorical__Strength_6.25MG/5ML,0.0
+categorical__Strength_6.25MG,0.0
+categorical__Strength_5mCi/2.5ML (2mCi/ML),0.0
+categorical__Strength_60MG/20ML (3MG/ML),0.0
+categorical__Strength_5MG;6.25MG,0.0
+categorical__Ingredient_AZELAIC ACID,0.0
+categorical__Strength_5MG;500MG,0.0
+categorical__Strength_5MG;2.5MG,0.0
+categorical__Strength_5MG;1GM,0.0
+categorical__Strength_5MG;12.5MG,0.0
+categorical__Strength_12.5MG;40MG,0.0
+categorical__Strength_5MG/SPRAY,0.0
+categorical__Strength_5MG/ML,0.0
+categorical__Strength_5MG/5ML;6.25MG/5ML,0.0
+categorical__Strength_5MG/5ML (1MG/ML),0.0
+categorical__Strength_5MG/2ML (2.5MG/ML),0.0
+categorical__Strength_5MG/10ML (0.5MG/ML),0.0
+categorical__Strength_5MG/0.4ML (5MG/0.4ML),0.0
+categorical__Strength_60MG/10ML (6MG/ML),0.0
+categorical__Strength_60MG/2ML (30MG/ML),0.0
+categorical__Strength_750MG IRON/15ML (50MG IRON/ML),0.0
+categorical__Strength_6MG,0.0
+categorical__Ingredient_ATOVAQUONE; PROGUANIL HYDROCHLORIDE,0.0
+categorical__Strength_75.5%,0.0
+categorical__Strength_746MG/100ML,0.0
+categorical__Strength_72MG,0.0
+categorical__Strength_70MG/VIAL,0.0
+categorical__Strength_70MG,0.0
+categorical__Strength_70GM/100ML,0.0
+categorical__Ingredient_ATRACURIUM BESYLATE,0.0
+categorical__Strength_7.5MG;200MG,0.0
+categorical__Strength_7.5MG/0.6ML (7.5MG/0.6ML),0.0
+categorical__Strength_7.5MCG/HR,0.0
+categorical__Strength_7.538GM/20ML (376.9MG/ML),0.0
+categorical__Strength_7.5%,0.0
+categorical__Strength_6MG/ML,0.0
+categorical__Strength_6GM/VIAL,0.0
+categorical__Strength_60MG/5ML,0.0
+categorical__Strength_6GM/30ML (200MG/ML),0.0
+categorical__Strength_6GM/250ML (24MG/ML),0.0
+categorical__Strength_67MG,0.0
+categorical__Strength_667MG,0.0
+categorical__Strength_66%;10%,0.0
+categorical__Strength_650MG,0.0
+categorical__Strength_65.2%,0.0
+categorical__Strength_64.7%,0.0
+categorical__Strength_625MG,0.0
+categorical__Strength_62.5MG;25MG,0.0
+categorical__Strength_62.5MG,0.0
+categorical__Strength_62.5MCG/HR,0.0
+categorical__Strength_61%,0.0
+categorical__Strength_60MG/VIAL,0.0
+categorical__Ingredient_ASPIRIN; BUTALBITAL; CAFFEINE,0.0
+categorical__Strength_EQ 0.1% BASE,0.0
+categorical__Strength_EQ 20MG BASE/2ML (EQ 10MG BASE/ML),0.0
+categorical__Strength_EQ 135MG BASE,0.0
+categorical__Strength_EQ 180MG BASE,0.0
+categorical__Strength_EQ 18.8MG BASE,0.0
+categorical__Strength_EQ 175MG BASE/17.5ML (EQ 10MG BASE/ML),0.0
+categorical__Strength_EQ 16MG BASE/250ML (EQ 64MCG BASE/ML),0.0
+categorical__Strength_EQ 16MG BASE,0.0
+categorical__Strength_EQ 15MG BASE;92MG,0.0
+categorical__Strength_EQ 15MG BASE/5ML,0.0
+categorical__Strength_EQ 15MG BASE,0.0
+categorical__Strength_EQ 150MG BASE/VIAL,0.0
+categorical__Strength_EQ 150MG BASE/ML,0.0
+categorical__Strength_EQ 150MG BASE,0.0
+categorical__Strength_EQ 15.7MG BASE,0.0
+categorical__Strength_EQ 15 UNITS BASE/VIAL,0.0
+categorical__Strength_EQ 135MG FENOFIBRIC ACID,0.0
+categorical__Strength_EQ 12MG BASE;EQ 3MG BASE,0.0
+categorical__Strength_EQ 18MG BASE/ML,0.0
+categorical__Strength_EQ 12MG BASE/ML,0.0
+categorical__Strength_EQ 12MG BASE,0.0
+categorical__Strength_EQ 12MCG SELENIUM/2ML (EQ 6MCG SELENIUM/ML),0.0
+categorical__Strength_EQ 12GM BASE/VIAL;EQ 1.5GM BASE/VIAL,0.0
+categorical__Strength_EQ 125MG VALPROIC ACID,0.0
+categorical__Strength_EQ 125MG HYDROCHLORIDE,0.0
+categorical__Strength_EQ 125MG BASE/VIAL,0.0
+categorical__Strength_EQ 125MG BASE/5ML,0.0
+categorical__Strength_EQ 125MG BASE,0.0
+categorical__Strength_EQ 120MG BASE,0.0
+categorical__Strength_EQ 12.5MG BASE/ML,0.0
+categorical__Strength_EQ 12.5MG BASE/250ML (EQ 0.05MG BASE/ML),0.0
+categorical__Strength_EQ 12.5MG BASE,0.0
+categorical__Strength_EQ 12.5MG ACID/PACKET,0.0
+categorical__Strength_EQ 18MG BASE,0.0
+categorical__Strength_EQ 1GM BASE,0.0
+categorical__Strength_EQ 12% BASE,0.0
+categorical__Strength_EQ 2.5MG BASE;EQ 10MG BASE,0.0
+categorical__Strength_EQ 20MG BASE/10ML (EQ 2MG BASE/ML),0.0
+categorical__Strength_EQ 20MG BASE/100ML (EQ 0.2MG BASE/ML),0.0
+categorical__Strength_EQ 200MG TARTRATE,0.0
+categorical__Ingredient_APREMILAST,0.0
+categorical__Strength_EQ 200MG BASE/VIAL,0.0
+categorical__Strength_EQ 200MG BASE/8ML (EQ 25MG BASE/ML),0.0
+categorical__Strength_EQ 200MG BASE/5ML,0.0
+categorical__Strength_EQ 200MG BASE/2ML (EQ 100MG BASE/ML),0.0
+categorical__Strength_EQ 200MG BASE/100ML,0.0
+categorical__Strength_EQ 200MG BASE,0.0
+categorical__Strength_EQ 200MCG BASE/50ML (EQ 4MCG BASE/ML),0.0
+categorical__Strength_EQ 200MCG BASE/2ML (EQ 100MCG BASE/ML),0.0
+categorical__Strength_EQ 2.5MG BASE;EQ 40MG BASE,0.0
+categorical__Strength_EQ 2.5MG BASE;EQ 20MG BASE,0.0
+categorical__Strength_EQ 2.5MG BASE;10MG,0.0
+categorical__Strength_EQ 1GM BASE/40ML (EQ 25MG BASE/ML),0.0
+categorical__Strength_EQ 2.5MG BASE/PACKET,0.0
+categorical__Strength_EQ 2.5MG BASE,0.0
+categorical__Ingredient_APREPITANT,0.0
+categorical__Strength_EQ 2% BASE,0.0
+categorical__Strength_EQ 1MG ZINC/ML,0.0
+categorical__Strength_EQ 1MG BASE/VIAL,0.0
+categorical__Strength_EQ 1MG BASE/ML (EQ 1MG BASE/ML),0.0
+categorical__Ingredient_ARFORMOTEROL TARTRATE,0.0
+categorical__Strength_EQ 1MG BASE/250ML (EQ 4MCG BASE/ML),0.0
+categorical__Strength_EQ 1MG BASE/10ML (EQ 100MCG BASE/ML),0.0
+categorical__Strength_EQ 1MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_EQ 1GM BASE/VIAL;EQ 500MG BASE/VIAL,0.0
+categorical__Strength_EQ 1GM BASE/VIAL **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_EQ 1GM BASE/VIAL,0.0
+categorical__Strength_EQ 12.5MG ACID,0.0
+categorical__Strength_EQ 11MG BASE,0.0
+categorical__Strength_EQ 0.15MG/DELIVERY,0.0
+categorical__Strength_EQ 0.3MG BASE/ML,0.0
+categorical__Strength_EQ 1.5MG BASE,0.0
+categorical__Strength_EQ 1.5GM BASE/VIAL,0.0
+categorical__Strength_EQ 1.2GM BASE/VIAL,0.0
+categorical__Strength_EQ 1.25GM BASE/VIAL,0.0
+categorical__Ingredient_ARMODAFINIL,0.0
+categorical__Strength_EQ 0.5MG BASE;EQ 50MG BASE,0.0
+categorical__Ingredient_ARSENIC TRIOXIDE,0.0
+categorical__Ingredient_ASCORBIC ACID,0.0
+categorical__Strength_EQ 0.5MG BASE/5ML,0.0
+categorical__Strength_EQ 0.5MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_EQ 0.5% BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Ingredient_ASCORBIC ACID; BIOTIN; CHOLECALCIFEROL; CYANOCOBALAMIN; DEXPANTHENOL; FOLIC ACID; NIACINAMIDE; PYRIDOXINE; RIBOFLAVIN; THIAMINE; TOCOPHEROL ACETATE; VITAMIN A; VITAMIN K,0.0
+categorical__Strength_EQ 0.4MG COPPER/ML,0.0
+categorical__Strength_EQ 0.3MG/DELIVERY,0.0
+categorical__Strength_EQ 0.33% BASE,0.0
+categorical__Strength_EQ 100MG BASE/100ML,0.0
+categorical__Strength_EQ 0.3% BASE;EQ 1% BASE,0.0
+categorical__Strength_EQ 0.3% BASE,0.0
+categorical__Ingredient_ASCORBIC ACID; POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM ASCORBATE; SODIUM CHLORIDE; SODIUM SULFATE,0.0
+categorical__Strength_EQ 0.25MG BASE/VIAL,0.0
+categorical__Strength_EQ 0.25MG BASE/ML,0.0
+categorical__Strength_EQ 0.25MG BASE/5ML (EQ 0.05MG BASE/ML),0.0
+categorical__Strength_EQ 0.25MG BASE,0.0
+categorical__Strength_EQ 0.25% BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_EQ 0.2% BASE;1%,0.0
+categorical__Strength_EQ 0.2% BASE,0.0
+categorical__Strength_EQ 0.1MG MANGANESE/ML,0.0
+categorical__Strength_EQ 0.1MG BASE/ML (EQ 0.1MG BASE/ML),0.0
+categorical__Strength_EQ 0.1MG BASE/ML,0.0
+categorical__Strength_EQ 0.18MG BASE,0.0
+categorical__Ingredient_ARIPIPRAZOLE,0.0
+categorical__Strength_EQ 100MG BASE/4ML (EQ 25MG BASE/ML),0.0
+categorical__Strength_EQ 115MG BASE,0.0
+categorical__Strength_EQ 10MG BASE;12.5MG;40MG,0.0
+categorical__Strength_EQ 110MG BASE,0.0
+categorical__Strength_EQ 11.25MG BASE;69MG,0.0
+categorical__Strength_EQ 10MG PHOSPHATE/ML,0.0
+categorical__Strength_EQ 10MG BASE;EQ 80MG BASE,0.0
+categorical__Strength_EQ 10MG BASE;EQ 40MG BASE,0.0
+categorical__Strength_EQ 10MG BASE;EQ 20MG BASE,0.0
+categorical__Strength_EQ 10MG BASE;EQ 10MG BASE,0.0
+categorical__Strength_EQ 10MG BASE;40MG,0.0
+categorical__Strength_EQ 10MG BASE;320MG,0.0
+categorical__Strength_EQ 10MG BASE;25MG;40MG,0.0
+categorical__Strength_EQ 10MG BASE;25MG;320MG,0.0
+categorical__Strength_EQ 10MG BASE;25MG;160MG,0.0
+categorical__Strength_EQ 10MG BASE;20MG,0.0
+categorical__Strength_EQ 10MG BASE;160MG,0.0
+categorical__Strength_EQ 10MG BASE;12.5MG;160MG,0.0
+categorical__Strength_EQ 100MG BASE/5ML,0.0
+categorical__Strength_EQ 10MG BASE/VIAL,0.0
+categorical__Strength_EQ 10MG BASE/PACKET,0.0
+categorical__Strength_EQ 10MG BASE/ML,0.0
+categorical__Strength_EQ 10MG BASE/5ML,0.0
+categorical__Strength_EQ 10MG BASE/10ML (EQ 1MG BASE/ML),0.0
+categorical__Strength_EQ 10GM BASE/VIAL;EQ 5GM BASE/VIAL,0.0
+categorical__Strength_EQ 10GM BASE/VIAL,0.0
+categorical__Strength_EQ 105MG BASE,0.0
+categorical__Strength_EQ 100MG TARTRATE,0.0
+categorical__Strength_EQ 100MG IRON/5ML (EQ 20MG IRON/ML),0.0
+categorical__Strength_EQ 100MG IRON/2ML (EQ 50MG IRON/ML),0.0
+categorical__Strength_EQ 100MG HYDROCHLORIDE,0.0
+categorical__Strength_EQ 100MG BASE/VIAL,0.0
+categorical__Ingredient_ARGATROBAN,0.0
+categorical__Strength_12.5MG;50MG,0.0
+categorical__Ingredient_ESTAZOLAM,0.0
+categorical__Strength_12.5MG;320MG,0.0
+categorical__Ingredient_NORTRIPTYLINE HYDROCHLORIDE,0.0
+categorical__Ingredient_OSELTAMIVIR PHOSPHATE,0.0
+categorical__Ingredient_ORPHENADRINE CITRATE,0.0
+categorical__Ingredient_ONDANSETRON HYDROCHLORIDE,0.0
+categorical__Ingredient_ONDANSETRON,0.0
+categorical__Ingredient_OMEPRAZOLE; SODIUM BICARBONATE,0.0
+categorical__Ingredient_OMEPRAZOLE,0.0
+categorical__Ingredient_OMEGA-3-ACID ETHYL ESTERS,0.0
+categorical__Ingredient_OLOPATADINE HYDROCHLORIDE,0.0
+categorical__Ingredient_OLMESARTAN MEDOXOMIL,0.0
+categorical__Ingredient_DONEPEZIL HYDROCHLORIDE,0.0
+categorical__Ingredient_OFLOXACIN,0.0
+categorical__Ingredient_DONEPEZIL HYDROCHLORIDE; MEMANTINE HYDROCHLORIDE,0.0
+categorical__Ingredient_DOPAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_DORZOLAMIDE HYDROCHLORIDE,0.0
+categorical__Ingredient_NORETHINDRONE ACETATE,0.0
+categorical__Ingredient_OXALIPLATIN,0.0
+categorical__Ingredient_DOXAPRAM HYDROCHLORIDE,0.0
+categorical__Ingredient_NOREPINEPHRINE BITARTRATE,0.0
+categorical__Ingredient_NIZATIDINE,0.0
+categorical__Ingredient_DOXAZOSIN MESYLATE,0.0
+"categorical__Ingredient_NITROFURANTOIN; NITROFURANTOIN, MACROCRYSTALLINE",0.0
+"categorical__Ingredient_NITROFURANTOIN, MACROCRYSTALLINE",0.0
+categorical__Ingredient_NITROFURANTOIN,0.0
+categorical__Ingredient_NITRIC OXIDE,0.0
+categorical__Ingredient_NITISINONE,0.0
+categorical__Ingredient_NITAZOXANIDE,0.0
+categorical__Ingredient_NISOLDIPINE,0.0
+categorical__Ingredient_NINTEDANIB ESYLATE,0.0
+categorical__Ingredient_NIMODIPINE,0.0
+categorical__Ingredient_NILOTINIB HYDROCHLORIDE,0.0
+categorical__Ingredient_OXACILLIN SODIUM,0.0
+categorical__Ingredient_OXAPROZIN,0.0
+categorical__Ingredient_NICARDIPINE HYDROCHLORIDE,0.0
+categorical__Ingredient_PAZOPANIB HYDROCHLORIDE,0.0
+categorical__Ingredient_PHENOXYBENZAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_PHENELZINE SULFATE,0.0
+categorical__Ingredient_DOBUTAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_PERPHENAZINE,0.0
+categorical__Ingredient_PERMETHRIN,0.0
+categorical__Ingredient_PERAMPANEL,0.0
+categorical__Ingredient_PENTOXIFYLLINE,0.0
+categorical__Ingredient_PENTOSTATIN,0.0
+categorical__Ingredient_PENTOBARBITAL SODIUM,0.0
+categorical__Ingredient_PENTAMIDINE ISETHIONATE,0.0
+categorical__Ingredient_PENICILLIN V POTASSIUM,0.0
+categorical__Ingredient_PENICILLIN G POTASSIUM,0.0
+categorical__Ingredient_PENICILLAMINE,0.0
+categorical__Ingredient_PENCICLOVIR,0.0
+categorical__Ingredient_PAROXETINE MESYLATE,0.0
+categorical__Ingredient_OXAZEPAM,0.0
+categorical__Ingredient_PAROXETINE HYDROCHLORIDE,0.0
+categorical__Ingredient_PARICALCITOL,0.0
+categorical__Ingredient_PANTOPRAZOLE SODIUM,0.0
+categorical__Ingredient_DOCETAXEL,0.0
+categorical__Ingredient_PALONOSETRON HYDROCHLORIDE,0.0
+categorical__Ingredient_PALIPERIDONE,0.0
+categorical__Ingredient_DOFETILIDE,0.0
+categorical__Ingredient_OXYTOCIN,0.0
+categorical__Ingredient_OXYMORPHONE HYDROCHLORIDE,0.0
+categorical__Ingredient_OXYMETAZOLINE HYDROCHLORIDE,0.0
+categorical__Ingredient_OXYCODONE HYDROCHLORIDE,0.0
+categorical__Ingredient_OXYBUTYNIN CHLORIDE,0.0
+categorical__Ingredient_OXICONAZOLE NITRATE,0.0
+categorical__Ingredient_OXCARBAZEPINE,0.0
+categorical__Ingredient_DOXERCALCIFEROL,0.0
+categorical__Ingredient_NIACIN,0.0
+categorical__Ingredient_SUFENTANIL CITRATE,0.0
+categorical__Ingredient_METOPROLOL TARTRATE,0.0
+categorical__Ingredient_MINOCYCLINE HYDROCHLORIDE,0.0
+categorical__Ingredient_MILRINONE LACTATE,0.0
+categorical__Ingredient_MILNACIPRAN HYDROCHLORIDE,0.0
+categorical__Ingredient_MIGLUSTAT,0.0
+categorical__Ingredient_MIFEPRISTONE,0.0
+categorical__Ingredient_MIDOSTAURIN,0.0
+categorical__Ingredient_MIDODRINE HYDROCHLORIDE,0.0
+categorical__Ingredient_MIDAZOLAM HYDROCHLORIDE,0.0
+categorical__Ingredient_MIDAZOLAM,0.0
+categorical__Ingredient_MICONAZOLE NITRATE,0.0
+categorical__Ingredient_MICAFUNGIN SODIUM,0.0
+categorical__Ingredient_MEXILETINE HYDROCHLORIDE,0.0
+categorical__Ingredient_METYROSINE,0.0
+categorical__Ingredient_DOXYCYCLINE HYCLATE,0.0
+categorical__Ingredient_METOPROLOL SUCCINATE,0.0
+categorical__Ingredient_MIRABEGRON,0.0
+categorical__Ingredient_METOLAZONE,0.0
+categorical__Ingredient_METOCLOPRAMIDE HYDROCHLORIDE,0.0
+categorical__Ingredient_METHYLTESTOSTERONE,0.0
+categorical__Ingredient_METHYLPREDNISOLONE SODIUM SUCCINATE,0.0
+categorical__Ingredient_DOXYLAMINE SUCCINATE; PYRIDOXINE HYDROCHLORIDE,0.0
+categorical__Ingredient_METHYLPREDNISOLONE,0.0
+categorical__Ingredient_DRONABINOL,0.0
+categorical__Ingredient_DROPERIDOL,0.0
+categorical__Ingredient_METHYLERGONOVINE MALEATE,0.0
+categorical__Ingredient_METHYLENE BLUE,0.0
+categorical__Ingredient_METHSUXIMIDE,0.0
+categorical__Ingredient_METHSCOPOLAMINE BROMIDE,0.0
+categorical__Ingredient_METHOXSALEN,0.0
+categorical__Ingredient_METHOTREXATE SODIUM,0.0
+categorical__Ingredient_MINOXIDIL,0.0
+categorical__Ingredient_MIRTAZAPINE,0.0
+categorical__Ingredient_NEVIRAPINE,0.0
+categorical__Ingredient_NAFCILLIN SODIUM,0.0
+categorical__Ingredient_NEOMYCIN SULFATE,0.0
+categorical__Ingredient_NELARABINE,0.0
+categorical__Ingredient_NEBIVOLOL HYDROCHLORIDE,0.0
+categorical__Ingredient_NATEGLINIDE,0.0
+categorical__Ingredient_NARATRIPTAN HYDROCHLORIDE,0.0
+categorical__Ingredient_NAPROXEN SODIUM; SUMATRIPTAN SUCCINATE,0.0
+categorical__Ingredient_NAPROXEN SODIUM,0.0
+categorical__Ingredient_NAPROXEN,0.0
+categorical__Ingredient_NALTREXONE HYDROCHLORIDE,0.0
+categorical__Ingredient_NALOXONE HYDROCHLORIDE; PENTAZOCINE HYDROCHLORIDE,0.0
+categorical__Ingredient_NALOXONE HYDROCHLORIDE,0.0
+categorical__Ingredient_NALMEFENE HYDROCHLORIDE,0.0
+categorical__Ingredient_NALBUPHINE HYDROCHLORIDE,0.0
+categorical__Ingredient_NAFTIFINE HYDROCHLORIDE,0.0
+categorical__Ingredient_NADOLOL,0.0
+categorical__Ingredient_MISOPROSTOL,0.0
+categorical__Ingredient_NABUMETONE,0.0
+categorical__Ingredient_MYCOPHENOLATE SODIUM,0.0
+categorical__Ingredient_MYCOPHENOLATE MOFETIL HYDROCHLORIDE,0.0
+categorical__Ingredient_DOXORUBICIN HYDROCHLORIDE,0.0
+categorical__Ingredient_MUPIROCIN CALCIUM,0.0
+categorical__Ingredient_MUPIROCIN,0.0
+categorical__Ingredient_DOXYCYCLINE,0.0
+categorical__Ingredient_MORPHINE SULFATE,0.0
+categorical__Ingredient_MONTELUKAST SODIUM,0.0
+categorical__Ingredient_MOMETASONE FUROATE,0.0
+categorical__Ingredient_MOEXIPRIL HYDROCHLORIDE,0.0
+categorical__Ingredient_MODAFINIL,0.0
+categorical__Ingredient_MITOXANTRONE HYDROCHLORIDE,0.0
+categorical__Ingredient_MITOMYCIN,0.0
+categorical__Ingredient_DIVALPROEX SODIUM,0.0
+categorical__Ingredient_PHENTERMINE HYDROCHLORIDE; TOPIRAMATE,0.0
+categorical__Ingredient_PHENTOLAMINE MESYLATE,0.0
+categorical__Ingredient_ROCURONIUM BROMIDE,0.0
+categorical__Ingredient_SELEXIPAG,0.0
+categorical__Ingredient_SELENIOUS ACID,0.0
+categorical__Ingredient_SELEGILINE HYDROCHLORIDE,0.0
+categorical__Ingredient_DICYCLOMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_SAXAGLIPTIN HYDROCHLORIDE,0.0
+categorical__Ingredient_DIETHYLPROPION HYDROCHLORIDE,0.0
+categorical__Ingredient_SAFINAMIDE MESYLATE,0.0
+categorical__Ingredient_SACUBITRIL; VALSARTAN,0.0
+categorical__Ingredient_RUFINAMIDE,0.0
+categorical__Ingredient_ROSUVASTATIN CALCIUM,0.0
+categorical__Ingredient_ROPIVACAINE HYDROCHLORIDE,0.0
+categorical__Ingredient_ROPINIROLE HYDROCHLORIDE,0.0
+categorical__Ingredient_ROMIDEPSIN,0.0
+categorical__Ingredient_ROFLUMILAST,0.0
+categorical__Ingredient_RIZATRIPTAN BENZOATE,0.0
+categorical__Ingredient_SEVELAMER CARBONATE,0.0
+categorical__Ingredient_RIVASTIGMINE TARTRATE,0.0
+categorical__Ingredient_DIFLORASONE DIACETATE,0.0
+categorical__Ingredient_DIFLUNISAL,0.0
+categorical__Ingredient_RITONAVIR,0.0
+categorical__Ingredient_DIFLUPREDNATE,0.0
+categorical__Ingredient_DIGOXIN,0.0
+categorical__Ingredient_RIOCIGUAT,0.0
+categorical__Ingredient_RILUZOLE,0.0
+categorical__Ingredient_RILPIVIRINE HYDROCHLORIDE,0.0
+categorical__Ingredient_RIFAXIMIN,0.0
+categorical__Ingredient_RIFAPENTINE,0.0
+categorical__Ingredient_RIFAMPIN,0.0
+categorical__Ingredient_RIFABUTIN,0.0
+categorical__Ingredient_RIBAVIRIN,0.0
+categorical__Ingredient_SERTRALINE HYDROCHLORIDE,0.0
+categorical__Ingredient_SEVELAMER HYDROCHLORIDE,0.0
+categorical__Ingredient_DISULFIRAM,0.0
+categorical__Ingredient_SODIUM OXYBATE,0.0
+categorical__Ingredient_SUCCINYLCHOLINE CHLORIDE,0.0
+categorical__Ingredient_STRONTIUM CHLORIDE SR-89,0.0
+categorical__Ingredient_STERILE WATER FOR IRRIGATION,0.0
+categorical__Ingredient_DICHLORPHENAMIDE,0.0
+categorical__Ingredient_SPIRONOLACTONE,0.0
+categorical__Ingredient_SOYBEAN OIL,0.0
+categorical__Ingredient_SOTALOL HYDROCHLORIDE,0.0
+categorical__Ingredient_SORAFENIB TOSYLATE,0.0
+categorical__Ingredient_SOLRIAMFETOL HYDROCHLORIDE,0.0
+categorical__Ingredient_SOLIFENACIN SUCCINATE,0.0
+categorical__Ingredient_SODIUM TETRADECYL SULFATE,0.0
+categorical__Ingredient_DICLOFENAC SODIUM; MISOPROSTOL,0.0
+"categorical__Ingredient_SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE; SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE",0.0
+categorical__Ingredient_SODIUM PHENYLBUTYRATE,0.0
+categorical__Ingredient_SODIUM NITROPRUSSIDE,0.0
+categorical__Ingredient_SILDENAFIL CITRATE,0.0
+categorical__Ingredient_SODIUM IODIDE I-131,0.0
+categorical__Ingredient_SODIUM IODIDE I-123,0.0
+categorical__Ingredient_SODIUM FLUORIDE F-18,0.0
+categorical__Ingredient_SODIUM FERRIC GLUCONATE COMPLEX,0.0
+categorical__Ingredient_SODIUM CHLORIDE,0.0
+categorical__Ingredient_DICLOXACILLIN SODIUM,0.0
+categorical__Ingredient_SODIUM BENZOATE; SODIUM PHENYLACETATE,0.0
+categorical__Ingredient_SODIUM ACETATE,0.0
+categorical__Ingredient_SITAGLIPTIN PHOSPHATE,0.0
+categorical__Ingredient_SIROLIMUS,0.0
+categorical__Ingredient_SINCALIDE,0.0
+categorical__Ingredient_SIMVASTATIN,0.0
+categorical__Ingredient_SILVER SULFADIAZINE,0.0
+categorical__Ingredient_SILODOSIN,0.0
+categorical__Ingredient_REPAGLINIDE,0.0
+categorical__Ingredient_REMIFENTANIL HYDROCHLORIDE,0.0
+categorical__Ingredient_REGADENOSON,0.0
+categorical__Ingredient_POLYMYXIN B SULFATE; TRIMETHOPRIM SULFATE,0.0
+categorical__Ingredient_PREDNISOLONE ACETATE,0.0
+categorical__Ingredient_PREDNISOLONE,0.0
+categorical__Ingredient_PRAZOSIN HYDROCHLORIDE,0.0
+categorical__Ingredient_PRAVASTATIN SODIUM,0.0
+categorical__Ingredient_PRASUGREL HYDROCHLORIDE,0.0
+categorical__Ingredient_PRAMIPEXOLE DIHYDROCHLORIDE,0.0
+categorical__Ingredient_PRALATREXATE,0.0
+"categorical__Ingredient_POTASSIUM PHOSPHATE, DIBASIC; POTASSIUM PHOSPHATE, MONOBASIC",0.0
+categorical__Ingredient_POTASSIUM CITRATE,0.0
+categorical__Ingredient_POTASSIUM CHLORIDE; SODIUM CHLORIDE,0.0
+categorical__Ingredient_DIROXIMEL FUMARATE,0.0
+categorical__Ingredient_POTASSIUM ACETATE,0.0
+categorical__Ingredient_POSACONAZOLE,0.0
+categorical__Ingredient_POMALIDOMIDE,0.0
+categorical__Ingredient_POLYMYXIN B SULFATE,0.0
+categorical__Ingredient_RASAGILINE MESYLATE,0.0
+categorical__Ingredient_POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM BICARBONATE; SODIUM CHLORIDE; SODIUM SULFATE ANHYDROUS,0.0
+categorical__Ingredient_POLYETHYLENE GLYCOL 3350; POTASSIUM CHLORIDE; SODIUM BICARBONATE; SODIUM CHLORIDE,0.0
+categorical__Ingredient_PITAVASTATIN CALCIUM,0.0
+categorical__Ingredient_PIROXICAM,0.0
+categorical__Ingredient_PIRFENIDONE,0.0
+categorical__Ingredient_PIPERACILLIN SODIUM; TAZOBACTAM SODIUM,0.0
+categorical__Ingredient_PIOGLITAZONE HYDROCHLORIDE,0.0
+categorical__Ingredient_PINDOLOL,0.0
+categorical__Ingredient_PIMOZIDE,0.0
+categorical__Ingredient_PIMECROLIMUS,0.0
+categorical__Ingredient_DISOPYRAMIDE PHOSPHATE,0.0
+categorical__Ingredient_PHENYTOIN SODIUM,0.0
+categorical__Ingredient_PHENYTOIN,0.0
+categorical__Ingredient_PHENYLEPHRINE HYDROCHLORIDE; PROMETHAZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_PREDNISOLONE SODIUM PHOSPHATE,0.0
+categorical__Ingredient_PREDNISONE,0.0
+categorical__Ingredient_PREGABALIN,0.0
+categorical__Ingredient_PRIMAQUINE PHOSPHATE,0.0
+categorical__Ingredient_DIHYDROERGOTAMINE MESYLATE,0.0
+categorical__Ingredient_RANITIDINE HYDROCHLORIDE,0.0
+categorical__Ingredient_RAMIPRIL,0.0
+categorical__Ingredient_RAMELTEON,0.0
+categorical__Ingredient_RALTEGRAVIR POTASSIUM,0.0
+categorical__Ingredient_RALOXIFENE HYDROCHLORIDE,0.0
+categorical__Ingredient_RABEPRAZOLE SODIUM,0.0
+categorical__Ingredient_QUININE SULFATE,0.0
+categorical__Ingredient_QUINIDINE GLUCONATE,0.0
+categorical__Ingredient_QUINAPRIL HYDROCHLORIDE,0.0
+categorical__Ingredient_QUETIAPINE FUMARATE,0.0
+categorical__Ingredient_PYRIMETHAMINE,0.0
+categorical__Ingredient_PYRIDOSTIGMINE BROMIDE,0.0
+categorical__Ingredient_PYRAZINAMIDE,0.0
+categorical__Ingredient_PRUCALOPRIDE SUCCINATE,0.0
+categorical__Ingredient_PROTRIPTYLINE HYDROCHLORIDE,0.0
+categorical__Ingredient_PROPYLTHIOURACIL,0.0
+categorical__Ingredient_DIMETHYL FUMARATE,0.0
+categorical__Ingredient_DIMETHYL SULFOXIDE,0.0
+categorical__Ingredient_PROPARACAINE HYDROCHLORIDE,0.0
+categorical__Ingredient_DIPHENHYDRAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_PROMETHAZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_DIPYRIDAMOLE,0.0
+categorical__Ingredient_PROCHLORPERAZINE MALEATE,0.0
+categorical__Ingredient_PROCHLORPERAZINE EDISYLATE,0.0
+categorical__Ingredient_PROCHLORPERAZINE,0.0
+categorical__Ingredient_PROCAINAMIDE HYDROCHLORIDE,0.0
+categorical__Ingredient_PROBENECID,0.0
+categorical__Ingredient_PRIMIDONE,0.0
+categorical__Ingredient_METHOHEXITAL SODIUM,0.0
+categorical__Ingredient_DROSPIRENONE; ESTRADIOL,0.0
+categorical__Ingredient_METHIMAZOLE,0.0
+categorical__Ingredient_GALLIUM GA-68 EDOTREOTIDE,0.0
+categorical__Ingredient_GLUCAGON,0.0
+categorical__Ingredient_GLIPIZIDE; METFORMIN HYDROCHLORIDE,0.0
+categorical__Ingredient_GLIPIZIDE,0.0
+categorical__Ingredient_GLIMEPIRIDE; PIOGLITAZONE HYDROCHLORIDE,0.0
+categorical__Ingredient_GLIMEPIRIDE,0.0
+categorical__Ingredient_EPIRUBICIN HYDROCHLORIDE,0.0
+categorical__Ingredient_EPLERENONE,0.0
+categorical__Ingredient_GEMFIBROZIL,0.0
+categorical__Ingredient_GEMCITABINE HYDROCHLORIDE,0.0
+categorical__Ingredient_GEFITINIB,0.0
+categorical__Ingredient_GATIFLOXACIN,0.0
+categorical__Ingredient_GANIRELIX ACETATE,0.0
+categorical__Ingredient_GANCICLOVIR SODIUM,0.0
+categorical__Ingredient_GALLIUM GA-68 GOZETOTIDE,0.0
+categorical__Ingredient_GALANTAMINE HYDROBROMIDE,0.0
+categorical__Ingredient_GLYBURIDE; METFORMIN HYDROCHLORIDE,0.0
+categorical__Ingredient_GADOTERIDOL,0.0
+categorical__Ingredient_GADOTERATE MEGLUMINE,0.0
+categorical__Ingredient_GADOBUTROL,0.0
+categorical__Ingredient_EPTIFIBATIDE,0.0
+categorical__Ingredient_ERGOCALCIFEROL,0.0
+categorical__Ingredient_ERIBULIN MESYLATE,0.0
+categorical__Ingredient_FROVATRIPTAN SUCCINATE,0.0
+categorical__Ingredient_FOSTAMATINIB DISODIUM,0.0
+categorical__Ingredient_FOSPHENYTOIN SODIUM,0.0
+categorical__Ingredient_FOSINOPRIL SODIUM; HYDROCHLOROTHIAZIDE,0.0
+categorical__Ingredient_FOSINOPRIL SODIUM,0.0
+categorical__Ingredient_FOSFOMYCIN TROMETHAMINE,0.0
+categorical__Ingredient_FOSCARNET SODIUM,0.0
+categorical__Ingredient_FOSAPREPITANT DIMEGLUMINE,0.0
+categorical__Ingredient_EPINEPHRINE; LIDOCAINE HYDROCHLORIDE,0.0
+categorical__Ingredient_EPINEPHRINE BITARTRATE; PRILOCAINE HYDROCHLORIDE,0.0
+categorical__Ingredient_HYDROCORTISONE SODIUM SUCCINATE,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE,0.0
+categorical__Ingredient_HYDROCORTISONE ACETATE; PRAMOXINE HYDROCHLORIDE,0.0
+categorical__Ingredient_ENALAPRILAT,0.0
+categorical__Ingredient_HYDROCODONE BITARTRATE; IBUPROFEN,0.0
+categorical__Ingredient_HYDROCODONE BITARTRATE,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; VALSARTAN,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; TRIAMTERENE,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; TELMISARTAN,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; SPIRONOLACTONE,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; QUINAPRIL HYDROCHLORIDE,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; OLMESARTAN MEDOXOMIL,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; METOPROLOL TARTRATE,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; LOSARTAN POTASSIUM,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; LISINOPRIL,0.0
+categorical__Ingredient_HYDROCHLOROTHIAZIDE; IRBESARTAN,0.0
+categorical__Ingredient_HYDRALAZINE HYDROCHLORIDE; ISOSORBIDE DINITRATE,0.0
+categorical__Ingredient_GLYCINE,0.0
+categorical__Ingredient_ENTACAPONE,0.0
+categorical__Ingredient_HOMATROPINE METHYLBROMIDE; HYDROCODONE BITARTRATE,0.0
+categorical__Ingredient_HEPARIN SODIUM,0.0
+categorical__Ingredient_HALOPERIDOL LACTATE,0.0
+categorical__Ingredient_ENTECAVIR,0.0
+categorical__Ingredient_HALOPERIDOL,0.0
+categorical__Ingredient_HALOBETASOL PROPIONATE; TAZAROTENE,0.0
+categorical__Ingredient_HALOBETASOL PROPIONATE,0.0
+categorical__Ingredient_GUANFACINE HYDROCHLORIDE,0.0
+"categorical__Ingredient_GRISEOFULVIN, ULTRAMICROSIZE",0.0
+"categorical__Ingredient_GRISEOFULVIN, MICROSIZE",0.0
+categorical__Ingredient_GRANISETRON HYDROCHLORIDE,0.0
+categorical__Ingredient_GRAMICIDIN; NEOMYCIN SULFATE; POLYMYXIN B SULFATE,0.0
+categorical__Ingredient_ENZALUTAMIDE,0.0
+categorical__Ingredient_FOSAMPRENAVIR CALCIUM,0.0
+categorical__Ingredient_FORMOTEROL FUMARATE,0.0
+categorical__Ingredient_ERLOTINIB HYDROCHLORIDE,0.0
+categorical__Ingredient_ETODOLAC,0.0
+categorical__Ingredient_FENOFIBRATE,0.0
+categorical__Ingredient_FELODIPINE,0.0
+categorical__Ingredient_FELBAMATE,0.0
+categorical__Ingredient_FEBUXOSTAT,0.0
+categorical__Ingredient_FAMOTIDINE; IBUPROFEN,0.0
+categorical__Ingredient_FAMOTIDINE,0.0
+categorical__Ingredient_FAMCICLOVIR,0.0
+categorical__Ingredient_EZETIMIBE; SIMVASTATIN,0.0
+categorical__Ingredient_EZETIMIBE,0.0
+categorical__Ingredient_EXEMESTANE,0.0
+categorical__Ingredient_EVEROLIMUS,0.0
+categorical__Ingredient_ETRAVIRINE,0.0
+categorical__Ingredient_ETOPOSIDE,0.0
+categorical__Ingredient_ETOMIDATE,0.0
+categorical__Ingredient_ETHOSUXIMIDE,0.0
+categorical__Ingredient_FOMEPIZOLE,0.0
+categorical__Ingredient_ETHINYL ESTRADIOL; NORGESTREL,0.0
+categorical__Ingredient_ETHINYL ESTRADIOL; NORGESTIMATE,0.0
+categorical__Ingredient_ETHINYL ESTRADIOL; NORETHINDRONE ACETATE,0.0
+categorical__Ingredient_ETHINYL ESTRADIOL; NORETHINDRONE,0.0
+categorical__Ingredient_ETHINYL ESTRADIOL; NORELGESTROMIN,0.0
+categorical__Ingredient_ESOMEPRAZOLE MAGNESIUM; NAPROXEN,0.0
+categorical__Ingredient_ETHINYL ESTRADIOL; ETONOGESTREL,0.0
+categorical__Ingredient_ETHINYL ESTRADIOL; ETHYNODIOL DIACETATE,0.0
+categorical__Ingredient_ETHAMBUTOL HYDROCHLORIDE,0.0
+categorical__Ingredient_ETHACRYNIC ACID,0.0
+categorical__Ingredient_ETHACRYNATE SODIUM,0.0
+categorical__Ingredient_ESZOPICLONE,0.0
+"categorical__Ingredient_ESTROGENS, CONJUGATED",0.0
+categorical__Ingredient_ESTRADIOL; NORETHINDRONE ACETATE,0.0
+categorical__Ingredient_ESOMEPRAZOLE MAGNESIUM,0.0
+categorical__Ingredient_FENTANYL CITRATE,0.0
+categorical__Ingredient_FERRIC CARBOXYMALTOSE,0.0
+categorical__Ingredient_FERRIC CITRATE,0.0
+categorical__Ingredient_FOLIC ACID,0.0
+categorical__Ingredient_FLUVOXAMINE MALEATE,0.0
+categorical__Ingredient_FLUVASTATIN SODIUM,0.0
+categorical__Ingredient_ERTAPENEM SODIUM,0.0
+categorical__Ingredient_FLUTICASONE PROPIONATE,0.0
+categorical__Ingredient_FLURAZEPAM HYDROCHLORIDE,0.0
+categorical__Ingredient_FLUPHENAZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_ERYTHROMYCIN ETHYLSUCCINATE,0.0
+categorical__Ingredient_FLUOXETINE HYDROCHLORIDE; OLANZAPINE,0.0
+categorical__Ingredient_ERYTHROMYCIN LACTOBIONATE,0.0
+categorical__Ingredient_ESCITALOPRAM OXALATE,0.0
+categorical__Ingredient_FLUOROMETHOLONE,0.0
+categorical__Ingredient_FLUORESCEIN SODIUM,0.0
+categorical__Ingredient_ESLICARBAZEPINE ACETATE,0.0
+categorical__Ingredient_ESMOLOL HYDROCHLORIDE,0.0
+categorical__Ingredient_FLUNISOLIDE,0.0
+categorical__Ingredient_FLUMAZENIL,0.0
+categorical__Ingredient_FLUDROCORTISONE ACETATE,0.0
+categorical__Ingredient_FLUDEOXYGLUCOSE F-18,0.0
+categorical__Ingredient_FLUDARABINE PHOSPHATE,0.0
+categorical__Ingredient_FLUCYTOSINE,0.0
+categorical__Ingredient_FLUCONAZOLE,0.0
+categorical__Ingredient_FLOXURIDINE,0.0
+categorical__Ingredient_FLECAINIDE ACETATE,0.0
+categorical__Ingredient_FLAVOXATE HYDROCHLORIDE,0.0
+categorical__Ingredient_FINGOLIMOD HYDROCHLORIDE,0.0
+categorical__Ingredient_FINASTERIDE,0.0
+categorical__Ingredient_FIDAXOMICIN,0.0
+categorical__Ingredient_FESOTERODINE FUMARATE,0.0
+categorical__Ingredient_ENALAPRIL MALEATE; HYDROCHLOROTHIAZIDE,0.0
+categorical__Ingredient_HYDROCORTISONE VALERATE,0.0
+categorical__Ingredient_METHENAMINE HIPPURATE,0.0
+categorical__Ingredient_LIOTHYRONINE SODIUM,0.0
+categorical__Ingredient_LOVASTATIN,0.0
+categorical__Ingredient_LOTEPREDNOL ETABONATE; TOBRAMYCIN,0.0
+categorical__Ingredient_LOTEPREDNOL ETABONATE,0.0
+categorical__Ingredient_LOSARTAN POTASSIUM,0.0
+categorical__Ingredient_LORAZEPAM,0.0
+categorical__Ingredient_LOPINAVIR; RITONAVIR,0.0
+categorical__Ingredient_LOPERAMIDE HYDROCHLORIDE,0.0
+categorical__Ingredient_LOMUSTINE,0.0
+categorical__Ingredient_LOFEXIDINE HYDROCHLORIDE,0.0
+categorical__Ingredient_LITHIUM CITRATE,0.0
+categorical__Ingredient_LITHIUM CARBONATE,0.0
+categorical__Ingredient_LISINOPRIL,0.0
+categorical__Ingredient_LISDEXAMFETAMINE DIMESYLATE,0.0
+categorical__Ingredient_ECONAZOLE NITRATE,0.0
+categorical__Ingredient_LINEZOLID,0.0
+categorical__Ingredient_LUBIPROSTONE,0.0
+categorical__Ingredient_LINCOMYCIN HYDROCHLORIDE,0.0
+categorical__Ingredient_LINAGLIPTIN; METFORMIN HYDROCHLORIDE,0.0
+categorical__Ingredient_LINAGLIPTIN,0.0
+categorical__Ingredient_LIDOCAINE; PRILOCAINE,0.0
+categorical__Ingredient_EDARAVONE,0.0
+categorical__Ingredient_EFAVIRENZ,0.0
+categorical__Ingredient_EFAVIRENZ; EMTRICITABINE; TENOFOVIR DISOPROXIL FUMARATE,0.0
+categorical__Ingredient_LEVORPHANOL TARTRATE,0.0
+categorical__Ingredient_LEVOMILNACIPRAN HYDROCHLORIDE,0.0
+categorical__Ingredient_LEVOLEUCOVORIN CALCIUM,0.0
+categorical__Ingredient_LEVOFLOXACIN,0.0
+categorical__Ingredient_LEVOCETIRIZINE DIHYDROCHLORIDE,0.0
+categorical__Ingredient_EFAVIRENZ; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE,0.0
+categorical__Ingredient_LEVOBUNOLOL HYDROCHLORIDE,0.0
+categorical__Ingredient_LOXAPINE SUCCINATE,0.0
+categorical__Ingredient_LURASIDONE HYDROCHLORIDE,0.0
+categorical__Ingredient_EMTRICITABINE; TENOFOVIR DISOPROXIL FUMARATE,0.0
+categorical__Ingredient_DROXIDOPA,0.0
+categorical__Ingredient_METHAZOLAMIDE,0.0
+categorical__Ingredient_METHAMPHETAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_DROSPIRENONE; ETHINYL ESTRADIOL,0.0
+categorical__Ingredient_METFORMIN HYDROCHLORIDE; SITAGLIPTIN PHOSPHATE,0.0
+categorical__Ingredient_METFORMIN HYDROCHLORIDE; SAXAGLIPTIN HYDROCHLORIDE,0.0
+categorical__Ingredient_METFORMIN HYDROCHLORIDE; PIOGLITAZONE HYDROCHLORIDE,0.0
+categorical__Ingredient_DROSPIRENONE; ETHINYL ESTRADIOL; LEVOMEFOLATE CALCIUM,0.0
+categorical__Ingredient_METAXALONE,0.0
+categorical__Ingredient_MESNA,0.0
+categorical__Ingredient_MESALAMINE,0.0
+categorical__Ingredient_MEROPENEM,0.0
+categorical__Ingredient_MERCAPTOPURINE,0.0
+categorical__Ingredient_MEPROBAMATE,0.0
+categorical__Ingredient_MEPERIDINE HYDROCHLORIDE,0.0
+categorical__Ingredient_MELPHALAN HYDROCHLORIDE,0.0
+categorical__Ingredient_MACITENTAN,0.0
+categorical__Ingredient_MELOXICAM,0.0
+categorical__Ingredient_MEGESTROL ACETATE,0.0
+categorical__Ingredient_MEFLOQUINE HYDROCHLORIDE,0.0
+categorical__Ingredient_MEFENAMIC ACID,0.0
+categorical__Ingredient_DULOXETINE HYDROCHLORIDE,0.0
+categorical__Ingredient_DUTASTERIDE,0.0
+categorical__Ingredient_MARAVIROC,0.0
+categorical__Ingredient_MANNITOL,0.0
+categorical__Ingredient_MANGANESE CHLORIDE,0.0
+categorical__Ingredient_MAGNESIUM SULFATE; POTASSIUM SULFATE; SODIUM SULFATE,0.0
+categorical__Ingredient_MAGNESIUM SULFATE; POTASSIUM CHLORIDE; SODIUM SULFATE,0.0
+"categorical__Ingredient_MAGNESIUM SULFATE; POTASSIUM CHLORIDE; POTASSIUM PHOSPHATE, MONOBASIC; SODIUM CHLORIDE; SODIUM PHOSPHATE",0.0
+categorical__Ingredient_DUTASTERIDE; TAMSULOSIN HYDROCHLORIDE,0.0
+categorical__Ingredient_MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE; SODIUM GLUCONATE,0.0
+categorical__Ingredient_EFINACONAZOLE,0.0
+categorical__Ingredient_LEVALBUTEROL HYDROCHLORIDE,0.0
+categorical__Ingredient_LEUPROLIDE ACETATE,0.0
+categorical__Ingredient_IMIPRAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_IRON DEXTRAN,0.0
+categorical__Ingredient_IRINOTECAN HYDROCHLORIDE,0.0
+categorical__Ingredient_IRBESARTAN,0.0
+categorical__Ingredient_IPRATROPIUM BROMIDE,0.0
+categorical__Ingredient_EMTRICITABINE; TENOFOVIR ALAFENAMIDE FUMARATE,0.0
+categorical__Ingredient_IOHEXOL,0.0
+categorical__Ingredient_IOFLUPANE I-123,0.0
+categorical__Ingredient_IODIXANOL,0.0
+categorical__Ingredient_INDOMETHACIN,0.0
+categorical__Ingredient_INDOCYANINE GREEN,0.0
+categorical__Ingredient_INDIUM IN-111 OXYQUINOLINE,0.0
+categorical__Ingredient_INDAPAMIDE,0.0
+categorical__Ingredient_IMIQUIMOD,0.0
+categorical__Ingredient_IMIPRAMINE PAMOATE,0.0
+categorical__Ingredient_IMATINIB MESYLATE,0.0
+categorical__Ingredient_LEUCOVORIN CALCIUM,0.0
+categorical__Ingredient_IFOSFAMIDE,0.0
+categorical__Ingredient_IDELALISIB,0.0
+categorical__Ingredient_IDARUBICIN HYDROCHLORIDE,0.0
+categorical__Ingredient_ICOSAPENT ETHYL,0.0
+categorical__Ingredient_ICATIBANT ACETATE,0.0
+categorical__Ingredient_IBUTILIDE FUMARATE,0.0
+categorical__Ingredient_IBUPROFEN LYSINE,0.0
+categorical__Ingredient_IBUPROFEN,0.0
+categorical__Ingredient_IBANDRONATE SODIUM,0.0
+categorical__Ingredient_HYDROXYZINE PAMOATE,0.0
+categorical__Ingredient_HYDROXYZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_HYDROXYUREA,0.0
+categorical__Ingredient_HYDROXYCHLOROQUINE SULFATE,0.0
+categorical__Ingredient_HYDROMORPHONE HYDROCHLORIDE,0.0
+categorical__Ingredient_EMTRICITABINE; RILPIVIRINE HYDROCHLORIDE; TENOFOVIR DISOPROXIL FUMARATE,0.0
+categorical__Ingredient_ISOFLURANE,0.0
+categorical__Ingredient_EMTRICITABINE; RILPIVIRINE HYDROCHLORIDE; TENOFOVIR ALAFENAMIDE FUMARATE,0.0
+categorical__Ingredient_ISOPROTERENOL HYDROCHLORIDE,0.0
+categorical__Ingredient_LETROZOLE,0.0
+categorical__Ingredient_LENALIDOMIDE,0.0
+categorical__Ingredient_LEFLUNOMIDE,0.0
+categorical__Ingredient_LATANOPROSTENE BUNOD,0.0
+categorical__Ingredient_LATANOPROST,0.0
+categorical__Ingredient_LAPATINIB DITOSYLATE,0.0
+categorical__Ingredient_LANTHANUM CARBONATE,0.0
+categorical__Ingredient_LANSOPRAZOLE,0.0
+categorical__Ingredient_ELETRIPTAN HYDROBROMIDE,0.0
+categorical__Ingredient_LAMOTRIGINE,0.0
+categorical__Ingredient_LAMIVUDINE; ZIDOVUDINE,0.0
+categorical__Ingredient_LAMIVUDINE,0.0
+categorical__Ingredient_ELIGLUSTAT TARTRATE,0.0
+categorical__Ingredient_LACOSAMIDE,0.0
+categorical__Ingredient_LABETALOL HYDROCHLORIDE,0.0
+categorical__Ingredient_L-GLUTAMINE,0.0
+categorical__Ingredient_KETOROLAC TROMETHAMINE; PHENYLEPHRINE HYDROCHLORIDE,0.0
+categorical__Ingredient_KETOROLAC TROMETHAMINE,0.0
+categorical__Ingredient_KETOPROFEN,0.0
+categorical__Ingredient_ELTROMBOPAG OLAMINE,0.0
+categorical__Ingredient_KETAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_IVERMECTIN,0.0
+categorical__Ingredient_IVABRADINE HYDROCHLORIDE,0.0
+categorical__Ingredient_ITRACONAZOLE,0.0
+categorical__Ingredient_ISRADIPINE,0.0
+categorical__Ingredient_EMTRICITABINE,0.0
+categorical__Ingredient_ISOSULFAN BLUE,0.0
+categorical__Ingredient_ISOSORBIDE MONONITRATE,0.0
+categorical__Ingredient_ISOSORBIDE DINITRATE,0.0
+categorical__Ingredient_SUCRALFATE,0.0
+categorical__Ingredient_SUGAMMADEX SODIUM,0.0
+categorical__Strength_12.5MG;300MG,0.0
+categorical__Strength_0.25MG/INH;EQ 0.05MG BASE/INH,0.0
+categorical__Strength_0.3MG,0.0
+categorical__Strength_0.38%,0.0
+categorical__Strength_0.375MG,0.0
+categorical__Ingredient_CEFPODOXIME PROXETIL,0.0
+categorical__Strength_0.3%;2.5%,0.0
+categorical__Strength_0.3%;0.1%,0.0
+categorical__Ingredient_CEFPROZIL,0.0
+categorical__Strength_0.2MG/ML,0.0
+categorical__Strength_0.2MG/HR,0.0
+categorical__Strength_0.2MG/24HR,0.0
+"categorical__Strength_0.2MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+categorical__Strength_0.2MG,0.0
+categorical__Strength_0.25MG/VIAL,0.0
+categorical__Strength_0.25MG/ML,0.0
+categorical__Strength_0.25MG/5ML (0.05MG/ML),0.0
+categorical__Strength_0.3MG/24HR,0.0
+categorical__Ingredient_CEFTAROLINE FOSAMIL,0.0
+categorical__Strength_0.25MG,0.0
+categorical__Strength_0.25MCG,0.0
+categorical__Strength_0.25GM/ML,0.0
+categorical__Strength_0.25%;0.0091MG/ML,0.0
+categorical__Strength_0.25%,0.0
+categorical__Strength_0.225GM;0.188GM;1.479GM,0.0
+categorical__Ingredient_CEFTAZIDIME,0.0
+categorical__Ingredient_CEFTRIAXONE SODIUM,0.0
+categorical__Strength_0.1MG/ML,0.0
+categorical__Strength_0.1MG/INH;EQ 0.05MG BASE/INH,0.0
+categorical__Strength_0.1MG/HR,0.0
+"categorical__Strength_0.1MG,0.125MG,0.15MG;0.025MG,0.025MG,0.025MG",0.0
+"categorical__Strength_0.1MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+"categorical__Strength_0.3MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+categorical__Strength_0.3MG/DELIVERY,0.0
+categorical__Strength_0.16MG/INH;0.0045MG/INH,0.0
+categorical__Strength_0.5GM/ML,0.0
+categorical__Strength_0.5MG;500MG,0.0
+categorical__Strength_0.5MG;1MG,0.0
+categorical__Strength_0.5MG;0.4MG,0.0
+categorical__Strength_0.5MG;0.1MG,0.0
+categorical__Strength_0.5MG/VIAL,0.0
+categorical__Strength_0.5MG/SPRAY,0.0
+categorical__Strength_0.5MG/ML,0.0
+categorical__Strength_0.5MG/INH;EQ 0.05MG BASE/INH,0.0
+categorical__Ingredient_CEFEPIME HYDROCHLORIDE,0.0
+categorical__Strength_0.5MG/5ML,0.0
+categorical__Ingredient_CEFIXIME,0.0
+categorical__Strength_0.5MG/0.5ML,0.0
+categorical__Ingredient_CEFOTETAN DISODIUM,0.0
+categorical__Strength_0.5MCG,0.0
+categorical__Strength_0.56MG/2.24ML (0.25MG/ML),0.0
+categorical__Strength_0.4%,0.0
+categorical__Strength_0.5-5mCi/ML,0.0
+categorical__Strength_0.5-4mCi/ML,0.0
+categorical__Strength_0.5%;0.3%,0.0
+categorical__Strength_0.5%;0.0091MG/ML,0.0
+categorical__Strength_0.5%;0.005MG/ML,0.0
+categorical__Ingredient_CEFOXITIN SODIUM,0.0
+categorical__Strength_0.4MG/SPRAY,0.0
+categorical__Strength_0.4MG/ML (0.4MG/ML),0.0
+categorical__Strength_0.4MG/ML,0.0
+categorical__Strength_0.4MG/HR,0.0
+categorical__Strength_0.4MG/5ML (0.08MG/ML),0.0
+categorical__Strength_0.4MG,0.0
+categorical__Strength_0.48MG/ML;0.3MG/ML;0.75MG/ML;3.9MG/ML;6.4MG/ML;1.7MG/ML,0.0
+categorical__Strength_0.45MG,0.0
+categorical__Ingredient_CEFUROXIME AXETIL,0.0
+categorical__Strength_0.15MG;0.03MG,0.0
+categorical__Ingredient_SULFACETAMIDE SODIUM,0.0
+categorical__Strength_0.02MG;0.09MG,0.0
+categorical__Ingredient_CETIRIZINE HYDROCHLORIDE,0.0
+"categorical__Strength_0.03MG,0.04MG,0.03MG;0.05MG,0.075MG,0.125MG",0.0
+"categorical__Strength_0.03MG,0.01MG;0.15MG,N/A",0.0
+categorical__Strength_0.035MG;1MG,0.0
+categorical__Strength_0.035MG;0.5MG,0.0
+categorical__Strength_0.035MG;0.4MG,0.0
+categorical__Strength_0.035MG;0.25MG,0.0
+categorical__Strength_0.035MG/24HR;0.15MG/24HR,0.0
+"categorical__Strength_0.035MG,0.035MG,0.035MG;0.5MG,1MG,0.5MG",0.0
+"categorical__Strength_0.035MG,0.035MG,0.035MG;0.5MG,0.75MG,1MG",0.0
+"categorical__Strength_0.035MG,0.035MG,0.035MG;0.18MG,0.215MG,0.25MG",0.0
+categorical__Strength_0.03%,0.0
+categorical__Strength_0.02MG;1MG,0.0
+categorical__Ingredient_CETRORELIX ACETATE,0.0
+categorical__Strength_0.02MG/VIAL,0.0
+categorical__Strength_0.03MG;1.5MG,0.0
+categorical__Strength_0.02MG/2ML,0.0
+"categorical__Strength_0.02MG,0.1MG;0.01MG,N/A",0.0
+"categorical__Strength_0.02MG,0.15MG;0.025MG,0.15MG;0.03MG,0.15MG;0.01MG,N/A",0.0
+"categorical__Strength_0.02MG,0.03MG,0.035MG;1MG,1MG,1MG",0.0
+categorical__Ingredient_CEVIMELINE HYDROCHLORIDE,0.0
+categorical__Strength_0.025MG;0.8MG,0.0
+categorical__Strength_0.025MG/SPRAY,0.0
+"categorical__Strength_0.025MG/ML;EQ 1.75MG BASE/ML;10,000 UNITS/ML",0.0
+"categorical__Strength_0.025MG,0.025MG,0.025MG;0.18MG,0.215MG,0.25MG",0.0
+"categorical__Strength_0.025MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+categorical__Strength_0.025%,0.0
+categorical__Strength_0.024%,0.0
+categorical__Strength_0.021MG/SPRAY,0.0
+categorical__Strength_0.021MG/INH,0.0
+categorical__Strength_0.03MG;0.3MG,0.0
+categorical__Strength_0.042MG/SPRAY,0.0
+categorical__Strength_0.15MG/DELIVERY,0.0
+categorical__Strength_0.1%;0.3%,0.0
+"categorical__Strength_0.15MG,N/A;0.02MG,0.01MG",0.0
+"categorical__Strength_0.15MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+categorical__Ingredient_CEFUROXIME SODIUM,0.0
+categorical__Strength_0.147MG/GM,0.0
+categorical__Strength_0.137MG/SPRAY;0.05MG/SPRAY,0.0
+categorical__Strength_0.137MG/SPRAY,0.0
+"categorical__Strength_0.137MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+"categorical__Strength_0.125MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+categorical__Strength_0.125MG,0.0
+categorical__Strength_0.12%,0.0
+"categorical__Strength_0.112MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+"categorical__Strength_0.1%;EQ 3.5MG BASE/ML;10,000 UNITS/ML",0.0
+"categorical__Strength_0.1%;EQ 3.5MG BASE/GM;10,000 UNITS/GM",0.0
+categorical__Strength_0.1%;2.5%,0.0
+categorical__Strength_0.1% (1GM/PACKET),0.0
+categorical__Strength_0.044MG/INH,0.0
+categorical__Strength_0.1% (1.25GM/PACKET),0.0
+categorical__Strength_0.1% (0.75GM/PACKET),0.0
+categorical__Strength_0.1% (0.5GM/PACKET),0.0
+categorical__Strength_0.1% (0.25GM/PACKET),0.0
+categorical__Ingredient_CELECOXIB,0.0
+"categorical__Strength_0.088MG **See current Annual Edition, 1.8 Description of Special Situations, Levothyroxine Sodium **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+categorical__Strength_0.08%,0.0
+categorical__Strength_0.064%;0.005%,0.0
+categorical__Strength_0.0625MG,0.0
+categorical__Strength_0.06% (1.25GM/ACTIVATION),0.0
+categorical__Strength_0.06%,0.0
+categorical__Strength_0.05MG/SPRAY,0.0
+categorical__Strength_0.05MG/ML,0.0
+categorical__Ingredient_CEPHALEXIN,0.0
+categorical__Strength_0.625MG,0.0
+categorical__Strength_0.665MG/SPRAY,0.0
+categorical__Strength_0.6MG,0.0
+categorical__Strength_10GM/15ML,0.0
+categorical__Strength_10MG/9HR (1.1MG/HR),0.0
+categorical__Strength_10MG/5ML;6.25MG/5ML,0.0
+categorical__Strength_10MG/5ML;5MG/5ML;6.25MG/5ML,0.0
+categorical__Strength_10MG/5ML,0.0
+categorical__Strength_10MG/4ML (2.5MG/ML),0.0
+categorical__Strength_10MG/2ML (5MG/ML),0.0
+categorical__Strength_10MG/10ML (1MG/ML),0.0
+categorical__Strength_10MG/0.8ML (10MG/0.8ML),0.0
+categorical__Strength_10MEQ/10ML (1MEQ/ML),0.0
+categorical__Ingredient_CALCIUM GLUCONATE,0.0
+categorical__Strength_10MCG/HR,0.0
+categorical__Strength_10MCG,0.0
+categorical__Strength_10GM/PACKET,0.0
+categorical__Strength_10GM/20ML (500MG/ML),0.0
+categorical__Strength_10GM/100ML (100MG/ML),0.0
+categorical__Ingredient_CALCIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM CHLORIDE,0.0
+categorical__Strength_10GM/100ML,0.0
+categorical__Strength_100uCi,0.0
+categorical__Strength_100USP UNITS/10ML (10USP UNITS/ML),0.0
+categorical__Strength_100MG;25MG,0.0
+categorical__Strength_100MG;150MG,0.0
+categorical__Ingredient_CANAGLIFLOZIN,0.0
+categorical__Ingredient_CANDESARTAN CILEXETIL,0.0
+categorical__Strength_100MG/ML (100MG/ML),0.0
+categorical__Ingredient_CANDESARTAN CILEXETIL; HYDROCHLOROTHIAZIDE,0.0
+categorical__Strength_100MG/5ML (20MG/ML),0.0
+categorical__Strength_100MG/5ML,0.0
+categorical__Strength_100MG/4ML (25MG/ML),0.0
+categorical__Strength_100MG/20ML (5MG/ML),0.0
+categorical__Ingredient_CANGRELOR,0.0
+categorical__Ingredient_CALCIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM CHLORIDE; SODIUM LACTATE,0.0
+categorical__Ingredient_CALCIUM CHLORIDE; MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM CHLORIDE,0.0
+categorical__Strength_0.6MG/HR,0.0
+categorical__Strength_11.8GM/50ML (236MG/ML);11.2GM/50ML (224MG/ML),0.0
+categorical__Strength_12.5MG;20MG,0.0
+categorical__Strength_12.5MG;200MG;50MG,0.0
+categorical__Strength_12.5MG;160MG,0.0
+categorical__Strength_12.5MG;150MG,0.0
+categorical__Ingredient_CALCIUM CHLORIDE; MAGNESIUM CHLORIDE; POTASSIUM CHLORIDE; SODIUM ACETATE; SODIUM CHLORIDE; SODIUM CITRATE,0.0
+categorical__Strength_12.5MG;10MG,0.0
+categorical__Strength_12.5MG;100MG,0.0
+categorical__Strength_12.5MG/VIAL,0.0
+categorical__Strength_12.5MG/5ML,0.0
+categorical__Strength_12.5MG/1.25GM ACTUATION,0.0
+categorical__Strength_12.5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_12.5MG,0.0
+categorical__Strength_12.5MCG/HR,0.0
+categorical__Ingredient_ESOMEPRAZOLE SODIUM,0.0
+categorical__Strength_10USP UNITS/ML (10USP UNITS/ML),0.0
+categorical__Strength_10MG;100MG,0.0
+categorical__Strength_10MG;EQ 5MG BASE,0.0
+categorical__Strength_10MG;80MG,0.0
+categorical__Strength_10MG;7MG,0.0
+categorical__Strength_10MG;6.25MG,0.0
+categorical__Strength_10MG;500MG,0.0
+categorical__Strength_10MG;40MG,0.0
+categorical__Strength_10MG;28MG,0.0
+categorical__Strength_10MG;25MG,0.0
+categorical__Strength_10MG;21MG,0.0
+categorical__Strength_10MG;20MG,0.0
+categorical__Strength_10MG;1GM,0.0
+categorical__Strength_10MG;14MG,0.0
+categorical__Strength_10MG;12.5MG,0.0
+categorical__Strength_10MG;10MG,0.0
+categorical__Strength_100MG/100ML (1MG/ML),0.0
+categorical__Strength_100MG IRON/2ML (50MG IRON/ML),0.0
+categorical__Strength_100MG EXTENDED,0.0
+categorical__Ingredient_CARMUSTINE,0.0
+categorical__Strength_1.5MG,0.0
+categorical__Strength_1.5GM/100ML (15MG/ML),0.0
+categorical__Strength_1.5GM/100ML,0.0
+categorical__Strength_1.5GM/1.5ML (1GM/ML),0.0
+categorical__Ingredient_CARFILZOMIB,0.0
+categorical__Strength_1.4MG,0.0
+categorical__Strength_1.49GM/100ML,0.0
+categorical__Strength_1.34GM/5ML;1.38GM/5ML (268MG/ML;276MG/ML),0.0
+categorical__Strength_1.34GM/5ML;1.38GM/5ML (268MG/ML; 276MG/ML),0.0
+categorical__Strength_1.2MG,0.0
+categorical__Strength_1.2GM,0.0
+categorical__Strength_1.25MG;250MG,0.0
+categorical__Ingredient_CARGLUMIC ACID,0.0
+categorical__Strength_1.25MG/ML,0.0
+categorical__Strength_1.20944GM/2ML (604.72MG/ML),0.0
+categorical__Ingredient_CAPTOPRIL,0.0
+categorical__Strength_1.2%;0.025%,0.0
+categorical__Ingredient_CARVEDILOL,0.0
+categorical__Strength_1.18GM/5ML (236MG/ML);1.12GM/5ML (224MG/ML),0.0
+"categorical__Strength_1,000 UNITS/ML",0.0
+categorical__Ingredient_CARVEDILOL PHOSPHATE,0.0
+categorical__Strength_1%;1%,0.0
+categorical__Ingredient_CASPOFUNGIN ACETATE,0.0
+categorical__Strength_0.9MG,0.0
+categorical__Strength_0.8MG,0.0
+categorical__Strength_0.8%,0.0
+categorical__Ingredient_CEFADROXIL/CEFADROXIL HEMIHYDRATE,0.0
+categorical__Ingredient_CEFAZOLIN SODIUM,0.0
+categorical__Strength_0.75%;0.0091MG/ML,0.0
+categorical__Ingredient_CEFDINIR,0.0
+categorical__Strength_1.5MG/5ML;5MG/5ML,0.0
+categorical__Strength_1.5MG/5ML;5MG/5ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Ingredient_CARBOPROST TROMETHAMINE,0.0
+categorical__Strength_1.62% (20.25MG/1.25GM PACKET),0.0
+categorical__Strength_100MEQ/50ML (2MEQ/ML),0.0
+categorical__Strength_100MEQ/40ML (2.5MEQ/ML),0.0
+categorical__Strength_100MCG/VIAL,0.0
+categorical__Strength_100MCG/HR,0.0
+"categorical__Strength_100,000 UNITS/ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**",0.0
+"categorical__Strength_100,000 UNITS/ML",0.0
+categorical__Ingredient_CARBIDOPA,0.0
+categorical__Ingredient_CARBIDOPA; ENTACAPONE; LEVODOPA,0.0
+categorical__Strength_100% (5ML),0.0
+categorical__Strength_100% (20ML),0.0
+categorical__Ingredient_CARBIDOPA; LEVODOPA,0.0
+categorical__Ingredient_CARBINOXAMINE MALEATE,0.0
+categorical__Strength_10-200mCi/ML,0.0
+categorical__Strength_10-100mCi/ML,0.0
+"categorical__Strength_10,000 UNITS/ML;EQ 1MG BASE/ML",0.0
+"categorical__Strength_10,000 UNITS/ML",0.0
+"categorical__Strength_10,000 UNITS/100ML",0.0
+categorical__Strength_10%;10% (5GM/50ML;5GM/50ML),0.0
+categorical__Strength_10%;10% (2GM/20ML;2GM/20ML),0.0
+categorical__Strength_10%;10% (2GM/20ML; 2GM/20ML),0.0
+categorical__Strength_1.8845GM/5ML (376.9MG/ML),0.0
+categorical__Strength_1.875MG;1.875MG;1.875MG;1.875MG,0.0
+categorical__Strength_1.8%,0.0
+categorical__Strength_1.75MG,0.0
+categorical__Strength_1.6MG,0.0
+categorical__Strength_1.6GM/BOT;3.13GM/BOT;17.5GM/BOT,0.0
+categorical__Strength_1.62% (40.5MG/2.5GM PACKET) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_1.62% (40.5MG/2.5GM PACKET),0.0
+categorical__Strength_1.62% (20.25MG/1.25GM PACKET) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_0.02%,0.0
+categorical__Strength_0.01MG/VIAL,0.0
+categorical__Strength_0.01MG/SPRAY,0.0
+categorical__Ingredient_TRIMIPRAMINE MALEATE,0.0
+categorical__Ingredient_VARDENAFIL HYDROCHLORIDE,0.0
+categorical__Ingredient_VANCOMYCIN HYDROCHLORIDE,0.0
+categorical__Ingredient_DEOXYCHOLIC ACID,0.0
+categorical__Ingredient_VALRUBICIN,0.0
+categorical__Ingredient_VALPROIC ACID,0.0
+categorical__Ingredient_VALPROATE SODIUM,0.0
+categorical__Ingredient_DESIPRAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_VALBENAZINE TOSYLATE,0.0
+categorical__Ingredient_VALACYCLOVIR HYDROCHLORIDE,0.0
+categorical__Ingredient_URSODIOL,0.0
+categorical__Ingredient_ULIPRISTAL ACETATE,0.0
+categorical__Ingredient_TROSPIUM CHLORIDE,0.0
+categorical__Ingredient_TROPICAMIDE,0.0
+categorical__Ingredient_TROMETHAMINE,0.0
+categorical__Ingredient_TRIMETHOPRIM,0.0
+categorical__Ingredient_VASOPRESSIN,0.0
+categorical__Ingredient_TRIMETHOBENZAMIDE HYDROCHLORIDE,0.0
+categorical__Ingredient_DESLORATADINE,0.0
+categorical__Ingredient_TRIFLURIDINE,0.0
+categorical__Ingredient_TRIFLUOPERAZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TRIENTINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TRIAZOLAM,0.0
+categorical__Ingredient_TRIAMTERENE,0.0
+categorical__Ingredient_DESMOPRESSIN ACETATE,0.0
+categorical__Ingredient_DESOGESTREL; ETHINYL ESTRADIOL,0.0
+categorical__Ingredient_DESVENLAFAXINE SUCCINATE,0.0
+categorical__Ingredient_TRAZODONE HYDROCHLORIDE,0.0
+categorical__Ingredient_DEXAMETHASONE SODIUM PHOSPHATE,0.0
+categorical__Ingredient_TRANYLCYPROMINE SULFATE,0.0
+categorical__Ingredient_TRANEXAMIC ACID,0.0
+categorical__Ingredient_VARENICLINE TARTRATE,0.0
+categorical__Ingredient_VECURONIUM BROMIDE,0.0
+categorical__Ingredient_DARUNAVIR,0.0
+categorical__Ingredient_ZOLMITRIPTAN,0.0
+categorical__Ingredient_DAUNORUBICIN HYDROCHLORIDE,0.0
+"categorical__DF;Route_CREAM, AUGMENTED;TOPICAL",0.0
+categorical__Ingredient_DECITABINE,0.0
+categorical__Ingredient_DEFERASIROX,0.0
+"categorical__DF;Route_CAPSULE, TABLET, CAPSULE, DELAYED REL PELLETS;ORAL",0.0
+categorical__Ingredient_DEFERIPRONE,0.0
+"categorical__DF;Route_CAPSULE, DELAYED RELEASE;ORAL",0.0
+"categorical__DF;Route_CAPSULE, DELAYED REL PELLETS;ORAL",0.0
+"categorical__DF;Route_AEROSOL, METERED;TOPICAL",0.0
+categorical__Ingredient_DEFEROXAMINE MESYLATE,0.0
+categorical__Ingredient_DEFLAZACORT,0.0
+"categorical__DF;Route_AEROSOL, FOAM;RECTAL",0.0
+categorical__Ingredient_ZONISAMIDE,0.0
+categorical__Ingredient_ZOLPIDEM TARTRATE,0.0
+categorical__Ingredient_ZOLEDRONIC ACID,0.0
+categorical__Ingredient_VENETOCLAX,0.0
+categorical__Ingredient_ZIPRASIDONE HYDROCHLORIDE,0.0
+categorical__Ingredient_ZINC SULFATE,0.0
+categorical__Ingredient_ZINC CHLORIDE,0.0
+categorical__Ingredient_ZILEUTON,0.0
+categorical__Ingredient_ZIDOVUDINE,0.0
+categorical__Ingredient_ZALEPLON,0.0
+categorical__Ingredient_ZAFIRLUKAST,0.0
+categorical__Ingredient_WARFARIN SODIUM,0.0
+categorical__Ingredient_VORICONAZOLE,0.0
+categorical__Ingredient_VINORELBINE TARTRATE,0.0
+categorical__Ingredient_VILAZODONE HYDROCHLORIDE,0.0
+categorical__Ingredient_VIGABATRIN,0.0
+categorical__Ingredient_VERAPAMIL HYDROCHLORIDE,0.0
+categorical__Ingredient_DEMECLOCYCLINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TRANDOLAPRIL,0.0
+categorical__Ingredient_DEXAMETHASONE; TOBRAMYCIN,0.0
+categorical__Ingredient_TORSEMIDE,0.0
+categorical__Ingredient_TECHNETIUM TC-99M MEBROFENIN KIT,0.0
+categorical__Ingredient_TERBINAFINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TERAZOSIN HYDROCHLORIDE,0.0
+categorical__Ingredient_TENOFOVIR DISOPROXIL FUMARATE,0.0
+categorical__Ingredient_TENOFOVIR ALAFENAMIDE FUMARATE,0.0
+categorical__Ingredient_TEMSIROLIMUS,0.0
+categorical__Ingredient_TEMOZOLOMIDE,0.0
+categorical__Ingredient_TEMAZEPAM,0.0
+categorical__Ingredient_TELMISARTAN,0.0
+categorical__Ingredient_TECHNETIUM TC-99M SULFUR COLLOID KIT,0.0
+categorical__Ingredient_TECHNETIUM TC-99M SESTAMIBI KIT,0.0
+categorical__Ingredient_TECHNETIUM TC-99M PYROPHOSPHATE KIT,0.0
+categorical__Ingredient_TECHNETIUM TC-99M PENTETATE KIT,0.0
+categorical__Ingredient_TECHNETIUM TC-99M MERTIATIDE KIT,0.0
+categorical__Ingredient_TECHNETIUM TC-99M MEDRONATE KIT,0.0
+categorical__Ingredient_TAZAROTENE,0.0
+categorical__Ingredient_TOREMIFENE CITRATE,0.0
+categorical__Ingredient_DEXTROSE; POTASSIUM CHLORIDE; SODIUM CHLORIDE,0.0
+categorical__Ingredient_TASIMELTEON,0.0
+categorical__Ingredient_TAPENTADOL HYDROCHLORIDE,0.0
+categorical__Ingredient_TAMSULOSIN HYDROCHLORIDE,0.0
+categorical__Ingredient_TAMOXIFEN CITRATE,0.0
+categorical__Ingredient_TAFLUPROST,0.0
+categorical__Ingredient_DEXTROSE; SODIUM CHLORIDE,0.0
+categorical__Ingredient_DIAZEPAM,0.0
+categorical__Ingredient_SUNITINIB MALATE,0.0
+categorical__Ingredient_DIAZOXIDE,0.0
+categorical__Ingredient_SUMATRIPTAN,0.0
+categorical__Ingredient_SULINDAC,0.0
+categorical__Ingredient_SULFASALAZINE,0.0
+categorical__Ingredient_SULFAMETHOXAZOLE; TRIMETHOPRIM,0.0
+categorical__Ingredient_TERBUTALINE SULFATE,0.0
+categorical__Ingredient_TERCONAZOLE,0.0
+categorical__Ingredient_TERIFLUNOMIDE,0.0
+categorical__Ingredient_TERIPARATIDE,0.0
+categorical__Ingredient_TOPOTECAN HYDROCHLORIDE,0.0
+categorical__Ingredient_DEXLANSOPRAZOLE,0.0
+categorical__Ingredient_DEXMEDETOMIDINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TOLTERODINE TARTRATE,0.0
+categorical__Ingredient_TOFACITINIB CITRATE,0.0
+categorical__Ingredient_TOBRAMYCIN SULFATE,0.0
+categorical__Ingredient_TOBRAMYCIN,0.0
+categorical__Ingredient_TIZANIDINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TIROFIBAN HYDROCHLORIDE,0.0
+categorical__Ingredient_TIPIRACIL HYDROCHLORIDE; TRIFLURIDINE,0.0
+categorical__Ingredient_TIOTROPIUM BROMIDE,0.0
+categorical__Ingredient_TIOPRONIN,0.0
+categorical__Ingredient_TINIDAZOLE,0.0
+categorical__Ingredient_DEXRAZOXANE HYDROCHLORIDE,0.0
+categorical__Ingredient_TIMOLOL,0.0
+categorical__Ingredient_TIGECYCLINE,0.0
+categorical__Ingredient_TICAGRELOR,0.0
+categorical__Ingredient_TIAGABINE HYDROCHLORIDE,0.0
+categorical__Ingredient_THIOTHIXENE,0.0
+categorical__Ingredient_DEXTROMETHORPHAN HYDROBROMIDE; PROMETHAZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_THIAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_THEOPHYLLINE,0.0
+categorical__Ingredient_THALIDOMIDE,0.0
+categorical__Ingredient_TETRACYCLINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TETRACAINE HYDROCHLORIDE,0.0
+categorical__Ingredient_TETRABENAZINE,0.0
+categorical__Ingredient_DEXTROMETHORPHAN HYDROBROMIDE; QUINIDINE SULFATE,0.0
+categorical__Ingredient_DEXTROSE,0.0
+categorical__Ingredient_DEXTROSE; POTASSIUM CHLORIDE,0.0
+categorical__Ingredient_DASATINIB,0.0
+categorical__Ingredient_DARIFENACIN HYDROBROMIDE,0.0
+categorical__Strength_0.01MG/ML;1%,0.0
+"categorical__DF;Route_SPRAY, METERED;SUBLINGUAL",0.0
+categorical__Ingredient_CHLORTHALIDONE,0.0
+"categorical__DF;Route_TABLET, CHEWABLE;ORAL",0.0
+categorical__Ingredient_CHOLINE C-11,0.0
+categorical__Ingredient_CHOLINE FENOFIBRATE,0.0
+categorical__Ingredient_CHROMIC CHLORIDE,0.0
+categorical__DF;Route_SUSPENSION;TOPICAL,0.0
+categorical__Ingredient_CIDOFOVIR,0.0
+categorical__Ingredient_CILASTATIN SODIUM; IMIPENEM,0.0
+categorical__Ingredient_CILOSTAZOL,0.0
+categorical__DF;Route_SUSPENSION/DROPS;OPHTHALMIC,0.0
+categorical__DF;Route_SUPPOSITORY;VAGINAL,0.0
+categorical__DF;Route_SUPPOSITORY;RECTAL,0.0
+categorical__Ingredient_CIMETIDINE,0.0
+categorical__DF;Route_SPRAY;NASAL,0.0
+"categorical__DF;Route_SPRAY, METERED;NASAL",0.0
+"categorical__DF;Route_TABLET, FOR SUSPENSION;ORAL",0.0
+categorical__Ingredient_CIMETIDINE HYDROCHLORIDE,0.0
+categorical__Ingredient_CINACALCET HYDROCHLORIDE,0.0
+"categorical__DF;Route_SOLUTION;PERFUSION, CARDIAC",0.0
+categorical__Ingredient_CIPROFLOXACIN,0.0
+categorical__Ingredient_CIPROFLOXACIN HYDROCHLORIDE; HYDROCORTISONE,0.0
+categorical__DF;Route_SOLUTION;OPHTHALMIC,0.0
+categorical__Ingredient_CISATRACURIUM BESYLATE,0.0
+categorical__Ingredient_CISPLATIN,0.0
+categorical__Ingredient_CITALOPRAM HYDROBROMIDE,0.0
+"categorical__DF;Route_SOLUTION;INTRAVENOUS, INTRAOCULAR, INTRAMUSCULAR, SUBCUTANEOUS",0.0
+"categorical__DF;Route_SOLUTION;INTRAVENOUS, INTRAMUSCULAR, SUBCUTANEOUS, INTRAOSSEOUS, ENDOTRACHEAL",0.0
+categorical__Ingredient_CLADRIBINE,0.0
+categorical__Ingredient_CLARITHROMYCIN,0.0
+"categorical__DF;Route_SOLUTION;INTRAMUSCULAR, SUBCUTANEOUS",0.0
+categorical__Ingredient_CHLORPROMAZINE HYDROCHLORIDE,0.0
+"categorical__DF;Route_TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE;ORAL",0.0
+categorical__DF;Route_ENEMA;RECTAL,0.0
+categorical__Strength_0.005% **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**,0.0
+categorical__Strength_0.01MG/2ML (0.005MG/ML),0.0
+"categorical__Strength_0.01MG,0.01MG;1MG,N/A",0.0
+categorical__Strength_0.01MG,0.0
+categorical__Strength_0.015MG/24HR;0.12MG/24HR,0.0
+categorical__Strength_0.014MG/24HR,0.0
+categorical__Strength_0.01%;0.045%,0.0
+categorical__Ingredient_CHLORDIAZEPOXIDE HYDROCHLORIDE,0.0
+categorical__Strength_0.005MG;1MG,0.0
+categorical__Strength_0.005MG/VIAL,0.0
+categorical__Strength_0.005MG/ML;4%,0.0
+categorical__Strength_0.005MG/ML;2%,0.0
+categorical__Strength_0.005MG/ML;1.5%,0.0
+categorical__Strength_0.005MG/ML;0.5%,0.0
+categorical__Strength_0.005MG/ML (0.005MG/ML),0.0
+categorical__Strength_0.005%,0.0
+"categorical__DF;Route_TABLET, ORALLY DISINTEGRATING, EXTENDED RELEASE;ORAL",0.0
+categorical__Strength_0.004MG/ML,0.0
+categorical__Strength_0.004MG,0.0
+categorical__Ingredient_CHLORDIAZEPOXIDE HYDROCHLORIDE; CLIDINIUM BROMIDE,0.0
+categorical__Strength_0.002MG/ML (0.002MG/ML),0.0
+categorical__Strength_0.0025MG;0.5MG,0.0
+categorical__Strength_0.001MG/ML,0.0
+categorical__Strength_0.0015%,0.0
+categorical__DF;Route_TROCHE/LOZENGE;ORAL,0.0
+categorical__DF;Route_TABLET;VAGINAL,0.0
+categorical__DF;Route_TABLET;SUBLINGUAL,0.0
+categorical__Ingredient_CHLOROPROCAINE HYDROCHLORIDE,0.0
+categorical__DF;Route_TABLET;ORAL-21,0.0
+categorical__Ingredient_CHLOROQUINE PHOSPHATE,0.0
+categorical__Ingredient_CHLOROTHIAZIDE SODIUM,0.0
+categorical__Ingredient_CLEMASTINE FUMARATE,0.0
+categorical__Ingredient_CLINDAMYCIN HYDROCHLORIDE,0.0
+categorical__Ingredient_CLINDAMYCIN PALMITATE HYDROCHLORIDE,0.0
+categorical__Ingredient_DALFAMPRIDINE,0.0
+"categorical__DF;Route_LOTION, AUGMENTED;TOPICAL",0.0
+categorical__Ingredient_CYCLOBENZAPRINE HYDROCHLORIDE,0.0
+categorical__Ingredient_CYCLOPENTOLATE HYDROCHLORIDE,0.0
+categorical__DF;Route_LIQUID;IRRIGATION,0.0
+categorical__Ingredient_CYCLOPHOSPHAMIDE,0.0
+categorical__DF;Route_JELLY;TOPICAL,0.0
+categorical__DF;Route_INSERT;VAGINAL,0.0
+categorical__Ingredient_CYTARABINE,0.0
+categorical__DF;Route_INJECTABLE;SPINAL,0.0
+categorical__Ingredient_DABIGATRAN ETEXILATE MESYLATE,0.0
+categorical__Ingredient_DACARBAZINE,0.0
+categorical__DF;Route_INJECTABLE;INTRATHECAL,0.0
+categorical__Ingredient_DACTINOMYCIN,0.0
+categorical__Ingredient_DALBAVANCIN HYDROCHLORIDE,0.0
+categorical__Ingredient_DANAZOL,0.0
+categorical__Ingredient_CLOBAZAM,0.0
+categorical__DF;Route_GRANULE;ORAL,0.0
+categorical__Ingredient_DANTROLENE SODIUM,0.0
+categorical__Ingredient_DAPAGLIFLOZIN,0.0
+categorical__DF;Route_GEL;RECTAL,0.0
+categorical__DF;Route_GEL;OPHTHALMIC,0.0
+categorical__Ingredient_DAPAGLIFLOZIN; METFORMIN HYDROCHLORIDE,0.0
+"categorical__DF;Route_GEL, AUGMENTED;TOPICAL",0.0
+categorical__DF;Route_GAS;INHALATION,0.0
+categorical__Ingredient_DAPAGLIFLOZIN; SAXAGLIPTIN HYDROCHLORIDE,0.0
+"categorical__DF;Route_FOR SUSPENSION, EXTENDED RELEASE;ORAL",0.0
+"categorical__DF;Route_FOR SUSPENSION, DELAYED RELEASE;ORAL",0.0
+categorical__Ingredient_DAPSONE,0.0
+categorical__DF;Route_FOR SOLUTION;INHALATION,0.0
+"categorical__DF;Route_FILM;BUCCAL, SUBLINGUAL",0.0
+categorical__Ingredient_CYANOCOBALAMIN,0.0
+categorical__DF;Route_OIL/DROPS;OTIC,0.0
+categorical__DF;Route_OIL;TOPICAL,0.0
+"categorical__DF;Route_OINTMENT, AUGMENTED;TOPICAL",0.0
+"categorical__DF;Route_SOLUTION;INJECTION, ORAL, RECTAL",0.0
+"categorical__DF;Route_SOLUTION;INJECTION, ORAL",0.0
+categorical__Ingredient_CLOCORTOLONE PIVALATE,0.0
+categorical__Ingredient_CLOFARABINE,0.0
+categorical__Ingredient_CLOMIPHENE CITRATE,0.0
+categorical__Ingredient_CLOMIPRAMINE HYDROCHLORIDE,0.0
+categorical__Ingredient_CLONAZEPAM,0.0
+categorical__DF;Route_SOLUTION/DROPS;TOPICAL,0.0
+categorical__DF;Route_SOLUTION/DROPS;OTIC,0.0
+categorical__Ingredient_CLOPIDOGREL BISULFATE,0.0
+categorical__Ingredient_CLORAZEPATE DIPOTASSIUM,0.0
+categorical__Ingredient_CLOTRIMAZOLE,0.0
+categorical__Ingredient_CLOZAPINE,0.0
+categorical__DF;Route_RING;VAGINAL,0.0
+categorical__DF;Route_POWDER;TOPICAL,0.0
+categorical__DF;Route_POWDER;SUBCUTANEOUS,0.0
+categorical__Ingredient_CODEINE PHOSPHATE; PHENYLEPHRINE HYDROCHLORIDE; PROMETHAZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_CODEINE PHOSPHATE; PROMETHAZINE HYDROCHLORIDE,0.0
+categorical__Ingredient_CODEINE SULFATE,0.0
+categorical__Ingredient_COLCHICINE,0.0
+categorical__Ingredient_COLCHICINE; PROBENECID,0.0
+categorical__Ingredient_COLESEVELAM HYDROCHLORIDE,0.0
+categorical__Ingredient_COLESTIPOL HYDROCHLORIDE,0.0
+categorical__Ingredient_COLISTIMETHATE SODIUM,0.0
+categorical__Ingredient_COSYNTROPIN,0.0
+categorical__DF;Route_OINTMENT;TRANSDERMAL,0.0
+categorical__Ingredient_CROMOLYN SODIUM,0.0
+categorical__Ingredient_CUPRIC CHLORIDE,0.0
+categorical__DF;Route_OINTMENT;INTRA-ANAL,0.0
+categorical__Strength_12.5GM/50ML,0.0
