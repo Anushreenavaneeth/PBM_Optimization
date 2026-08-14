@@ -57,28 +57,41 @@ N_FOLDS = 5          # cross-validation folds
 
 def build_xgboost_model() -> XGBRegressor:
     """
-    XGBoost configured for a SMALL dataset (132 rows, 23 features).
-    Every setting below exists specifically to limit how much the model
-    can "memorize" this particular small sample instead of learning
-    genuine, generalizable patterns:
+    XGBoost configured for the FULL dataset (1,451 rows, 23 features).
 
-    - max_depth=3        : shallow trees -> less capacity to overfit
-    - n_estimators=100    : moderate number of trees (not thousands)
-    - min_child_weight=5  : each leaf needs more supporting data before
-                             the tree is allowed to split further
-    - subsample=0.8       : each tree only sees 80% of the rows
-    - colsample_bytree=0.6: each tree only sees 60% of the features
-    - reg_alpha=1.0        : L1 regularization (penalizes complexity)
-    - reg_lambda=2.0       : L2 regularization (penalizes complexity)
+    UPDATED from the original small-dataset settings (132 rows). With
+    ~11x more data now, the earlier heavy regularization (max_depth=3,
+    min_child_weight=5, subsample=0.8, colsample_bytree=0.6) was overly
+    conservative — it was shrinking predictions toward the "average" drug's
+    behavior, which systematically understated continued growth for the
+    highest-cost, fastest-growing drugs (e.g. Dulaglutide, Apixaban) —
+    exactly the drugs a PBM cares about most. This showed up clearly once
+    PMPM tracking was built: nearly every high-PMPM drug's predicted 2024
+    value came in BELOW its actual 2023 value, despite a clear multi-year
+    upward trend.
+
+    Loosened settings below give the model more capacity to fit real
+    patterns now that there's enough data to support it, while still
+    keeping some regularization (not fully unconstrained) as a safety
+    margin. Re-verify the train/test R2 gap after this change to confirm
+    it hasn't reintroduced overfitting.
+
+    - max_depth=5          : deeper trees -> more capacity (was 3)
+    - n_estimators=200      : more trees, more data to justify it (was 100)
+    - min_child_weight=2    : allows finer splits (was 5)
+    - subsample=0.9         : each tree sees more of the data (was 0.8)
+    - colsample_bytree=0.8  : each tree sees more features (was 0.6)
+    - reg_alpha=0.3         : lighter L1 penalty (was 1.0)
+    - reg_lambda=1.0        : lighter L2 penalty (was 2.0)
     """
     return XGBRegressor(
-        n_estimators=100,
-        max_depth=3,
-        min_child_weight=5,
-        subsample=0.8,
-        colsample_bytree=0.6,
-        reg_alpha=1.0,
-        reg_lambda=2.0,
+        n_estimators=200,
+        max_depth=5,
+        min_child_weight=2,
+        subsample=0.9,
+        colsample_bytree=0.8,
+        reg_alpha=0.3,
+        reg_lambda=1.0,
         random_state=RANDOM_STATE,
     )
 
